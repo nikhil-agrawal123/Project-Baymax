@@ -1,0 +1,108 @@
+Fever
+Cough
+Shortness of breath
+Fatigue
+Headache
+Nausea
+Vomiting
+Diarrhea
+Constipation
+Abdominal pain
+Chest pain
+Heart palpitations
+Dizziness
+Lightheartedness
+Blurred vision
+Double vision
+Hearing loss
+Ear pain
+Sore throat
+Runny nose
+Nasal congestion
+Sneezing
+Loss of taste
+Loss of smell
+Skin rash
+Itching
+Swelling
+Joint pain
+Muscle pain
+Back pain
+Neck pain
+Difficulty swallowing
+Hoarseness
+Unexplained weight loss
+Unexplained weight gain
+Increased thirst
+Increased urination
+Night sweats
+Chills
+Tingling sensation
+Numbness
+Weakness
+Tremors
+Seizures
+Confusion
+Memory loss
+Mood swings
+Depression
+Anxiety
+Insomnia
+Excessive sleepiness
+Frequent headaches
+Migraine
+Bruising easily
+Bleeding gums
+Body pain
+Blood in stool
+Blood in urine
+Dark urine
+Pale stools
+Jaundice
+Cold hands and feet
+Brittle nails
+Hair loss
+Excessive sweating
+Dry skin
+Flushing
+Swollen lymph nodes
+Chest tightness
+Difficulty breathing
+Frequent infections
+Slow wound healing
+Low blood pressure
+High blood pressure
+Irregular heartbeat
+Bloating
+Gas
+Indigestion
+Heartburn
+Frequent urination at night
+Painful urination
+Urinary incontinence
+Menstrual irregularities
+Heavy menstrual bleeding
+Painful periods
+Hot flashes
+Loss of libido
+Erectile dysfunction
+Infertility
+Pelvic pain
+Rectal pain
+Anal itching
+Chronic cough
+Wheezing
+Cyanosis
+Clammy skin
+Clammy skin
+Cyanosis
+Cold sweats
+Vision loss
+Hallucinations
+Paranoia
+Delusions
+Self-harm thoughts
+Suicidal thoughts
+Difficulty concentrating
+Loss of balance
+Slurred speech

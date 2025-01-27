@@ -1,0 +1,1660 @@
+Symptoms,Main Category,Subcategory
+frontotemporal,(*likely frontotemporal dementia?*),Neurological
+inguinal,(*possibly inguinal hernia?),Condition or Disease
+umbilical,(*possibly umbilical hernia?),Condition or Disease
+genital,(*unclear alone*),
+femoral,(*unclear/no context*),
+frequent sneezing,Allergy & Hypersensitivity,Sneeze
+hypersensitivity,Allergy & Hypersensitivity,General
+urticaria,Allergy & Hypersensitivity,Hives
+anaphylaxis,Allergy & Hypersensitivity,Severe Reaction
+food allergy,Allergy & Hypersensitivity,Food
+hives,Allergy & Hypersensitivity,Urticaria
+angioedema,Allergy & Hypersensitivity,Swelling
+lip swelling,Allergy & Hypersensitivity,Angioedema
+swollen tongue,Allergy & Hypersensitivity,Angioedema
+hay fever,Allergy & Hypersensitivity,Rhinitis
+lip swelling,Allergy & Hypersensitivity,Angioedema
+supra ventricular tachycardia,Cardiovascular,Arrhythmia
+drop in blood pressure upon standing,Cardiovascular,Orthostatic Hypotension
+tachycardia,Cardiovascular,Fast Heart Rate
+elevated heart rate,Cardiovascular,Tachycardia
+high blood pressure,Cardiovascular,Hypertension
+blue skin,Cardiovascular,Cyanosis
+blue lips,Cardiovascular,Cyanosis
+hypertension,Cardiovascular,High Blood Pressure
+hypotension,Cardiovascular,Low Blood Pressure
+low blood pressure,Cardiovascular,Hypotension
+ectopic beats,Cardiovascular,Arrhythmia
+chest pain,Cardiovascular,Chest Symptom
+cyanosis,Cardiovascular,Oxygenation
+irregular heartbeat,Cardiovascular,Arrhythmia
+postural tachycardia syndrome,Cardiovascular,Orthostatic
+chest pain,Cardiovascular,Chest Symptom
+arrhythmia,Cardiovascular,Heart Rhythm
+weak pulse,Cardiovascular,Low Pulse Pressure
+postural tachycardia syndrome,Cardiovascular,Orthostatic
+angina,Cardiovascular,Chest Pain
+abnormally slow pulse,Cardiovascular,Bradycardia
+bradycardia,Cardiovascular,Slow Pulse
+heart palpitations,Cardiovascular,Palpitations
+varicose veins,Cardiovascular,Venous
+low blood pressure,Cardiovascular,Hypotension
+heart rhythm problems,Cardiovascular,Arrhythmia
+acrocyanosis,Cardiovascular,Circulatory Sign
+heart pain,Cardiovascular,Chest Pain
+ankle swelling,Cardiovascular or Musculoskeletal,Edema
+leg swelling,Cardiovascular or Musculoskeletal,Edema
+leg swelling,Cardiovascular or Musculoskeletal,Edema
+chest discomfort,Cardiovascular or Respiratory,Chest Symptom
+chest discomfort,Cardiovascular or Respiratory,Chest Symptom
+crackles on lung auscultation,Clinical Sign,Respiratory
+heart attack,Condition or Disease,Cardiovascular
+heart block,Condition or Disease,Cardiovascular
+heart disease,Condition or Disease,Cardiovascular
+heart failure,Condition or Disease,Cardiovascular
+kawasaki disease,Condition or Disease,Pediatric/Autoimmune
+joint hyper mobility syndrome,Condition or Disease,Musculoskeletal
+kidney cancer,Condition or Disease,Oncology
+hydrocephalus,Condition or Disease,Neurological
+isoelectric academia,Condition or Disease,Metabolic
+heart valve problems,Condition or Disease,Cardiovascular
+irritable hip,Condition or Disease,Musculoskeletal
+heat exhaustion,Condition or Disease,Environmental
+heatstroke,Condition or Disease,Environmental
+henoch schonlein purpura,Condition or Disease,Autoimmune/Vascular
+japanese encephalitis,Condition or Disease,Infectious
+hepatitis,Condition or Disease,Hepatic/Inflammation
+head lice,Condition or Disease,Infestation
+kidney failure,Condition or Disease,Renal
+gonorrhoea,Condition or Disease,Infectious (STI)
+gout,Condition or Disease,Musculoskeletal
+granulomatosis with polyangiitis,Condition or Disease,Autoimmune/Vascular
+group b strep,Condition or Disease,Infectious
+labial fusion,Condition or Disease,Reproductive
+guillain barre syndrome,Condition or Disease,Neurological
+head cancer,Condition or Disease,Oncology
+haemochromatosis,Condition or Disease,Metabolic
+haemophilus influenzae type b,Condition or Disease,Infectious
+klinefelter syndrome,Condition or Disease,Genetic
+haemorrhoids,Condition or Disease,Anorectal
+kidney stones,Condition or Disease,Renal
+kidney infection,Condition or Disease,Infectious (Pyelonephritis)
+hand disease,Condition or Disease,Musculoskeletal
+haemophilia,Condition or Disease,Hematological
+hepatitis a,Condition or Disease,Infectious
+hepatitis b,Condition or Disease,Infectious
+irritable bowel syndrome,Condition or Disease,Gastrointestinal
+ibs,Condition or Disease,Gastrointestinal
+hoarding disorder,Condition or Disease,Mental Health
+homocystinuria,Condition or Disease,Metabolic
+goitre,Condition or Disease,Endocrine
+ibd,Condition or Disease,Gastrointestinal
+hypothyroidism,Condition or Disease,Endocrine
+idiopathic pulmonary fibrosis,Condition or Disease,Respiratory
+hypothermia,Condition or Disease,Environmental
+hyperthyroidism,Condition or Disease,Endocrine
+hookworm,Condition or Disease,Parasitic
+hyperparathyroidism,Condition or Disease,Endocrine
+hughes syndrome,Condition or Disease,Autoimmune
+human papillomavirus,Condition or Disease,Infectious (STI)
+huntington disease,Condition or Disease,Genetic Neurological
+hypoparathyroidism,Condition or Disease,Endocrine
+inflammatory bowel disease,Condition or Disease,Gastrointestinal
+hiv,Condition or Disease,Infectious
+hirschsprung disease,Condition or Disease,GI Congenital
+hepatitis c,Condition or Disease,Infectious
+iron deficiency anaemia,Condition or Disease,Hematological
+hereditary haemorrhagic telangiectasia,Condition or Disease,Genetic/Vascular
+hereditary spastic paraplegia,Condition or Disease,Neurological
+hernia,Condition or Disease,Surgical
+herpes,Condition or Disease,Infectious
+herpetic whitlow,Condition or Disease,Infectious (Herpes)
+intracranial hypertension,Condition or Disease,Neurological
+interstitial cystitis,Condition or Disease,Genitourinary
+hiatus hernia,Condition or Disease,Gastrointestinal
+intersex,Condition or Disease,Genetic/Reproductive
+hib,Condition or Disease,Infectious
+ingrown toenail,Condition or Disease,Nail
+influenza,Condition or Disease,Infectious
+hip dysplasia,Condition or Disease,Musculoskeletal
+hydronephrosis,Condition or Disease,Renal
+goiter,Condition or Disease,Endocrine
+22q11,Condition or Disease,Genetic Condition
+glue ear,Condition or Disease,EENT
+dementia,Condition or Disease,Neurological
+dengue,Condition or Disease,Infectious
+diabetes,Condition or Disease,Endocrine
+diabetes insipidus,Condition or Disease,Endocrine
+diabetic ketoacidosis,Condition or Disease,Endocrine
+diabetic retinopathy,Condition or Disease,EENT
+digeorge syndrome,Condition or Disease,Genetic/Immunologic
+diphtheria,Condition or Disease,Infectious
+dissociative disorders,Condition or Disease,Mental Health
+dehydration,Condition or Disease,Fluid/Electrolyte
+diverticular disease,Condition or Disease,Gastrointestinal
+dupuytren contracture,Condition or Disease,Musculoskeletal
+dvt,Condition or Disease,Venous Thrombosis
+dwarfism,Condition or Disease,Endocrine or Genetic
+dysentery,Condition or Disease,Infectious
+dyslexia,Condition or Disease,Neurodevelopmental
+dysplasia of the hip,Condition or Disease,Musculoskeletal
+dyspraxia,Condition or Disease,Neurological/Developmental
+dystonia,Condition or Disease,Neurological
+ear infections,Condition or Disease,EENT
+down syndrome,Condition or Disease,Genetic
+ebola virus disease,Condition or Disease,Infectious
+deep vein thrombosis,Condition or Disease,Venous
+cytomegalovirus,Condition or Disease,Infectious
+complex regional pain syndrome,Condition or Disease,Pain/Neurological
+congenital heart disease,Condition or Disease,Cardiovascular
+congenital hip dislocation,Condition or Disease,Musculoskeletal
+conjunctivitis,Condition or Disease,EENT (Eye)
+coordination disorder,Condition or Disease,Neurological
+copd,Condition or Disease,Respiratory
+coronary,Condition or Disease,Cardiovascular
+coronary heart disease,Condition or Disease,Cardiovascular
+coronavirus,Condition or Disease,Infectious
+deafblindness,Condition or Disease,Sensory
+corticobasal degeneration,Condition or Disease,Neurological
+craniosynostosis,Condition or Disease,Congenital Cranial
+creutzfeldt jakob disease,Condition or Disease,Neurological/Infectious
+crohn disease,Condition or Disease,Gastrointestinal
+croup,Condition or Disease,Respiratory/Pediatric
+cushing syndrome,Condition or Disease,Endocrine
+cyclical vomiting syndrome,Condition or Disease,Gastrointestinal
+cyclospora,Condition or Disease,Infectious
+cystic fibrosis,Condition or Disease,Genetic/Multisystem
+cystitis,Condition or Disease,Genitourinary
+covid 19,Condition or Disease,Infectious
+ectopic pregnancy,Condition or Disease,Obstetric
+ectropion,Condition or Disease,Reproductive or EENT (Cervical/Eyelid)
+edward syndrome (trisomy 18),Condition or Disease,Genetic
+gallstones,Condition or Disease,Biliary
+ganglion cyst,Condition or Disease,Musculoskeletal
+gangrene,Condition or Disease,Necrosis
+gastritis,Condition or Disease,Gastrointestinal
+gastro oesophageal reflux disease,Condition or Disease,Gastrointestinal
+gastroenteritis,Condition or Disease,Infectious
+gastroparesis,Condition or Disease,Gastrointestinal
+gender dysphoria,Condition or Disease,Mental Health
+labyrinthitis,Condition or Disease,EENT
+gallbladder cancer,Condition or Disease,Oncology
+genital herpes,Condition or Disease,Infectious (STI)
+german measles,Condition or Disease,Infectious
+gestational diabetes,Condition or Disease,Endocrine/Obstetric
+giant cell arteritis,Condition or Disease,Vascular/Autoimmune
+giardiasis,Condition or Disease,Infectious
+gigantism,Condition or Disease,Endocrine
+gilbert syndrome,Condition or Disease,Hepatic
+glandular fever,Condition or Disease,Infectious
+glaucoma,Condition or Disease,EENT
+glomerulonephritis,Condition or Disease,Renal
+genital warts,Condition or Disease,Infectious (STI)
+functional neurological disorder,Condition or Disease,Neurological
+frontotemporal dementia,Condition or Disease,Neurological
+foot disease,Condition or Disease,Musculoskeletal or Skin
+ehlers danlos syndrome,Condition or Disease,Genetic/Connective Tissue
+empyema,Condition or Disease,Respiratory or Thoracic
+encephalitis,Condition or Disease,Neurological/Infectious
+endocarditis,Condition or Disease,Cardiovascular
+endometrial cancer,Condition or Disease,Oncology
+endometriosis,Condition or Disease,Reproductive
+epidermolysis bullosa,Condition or Disease,Genetic Skin
+epididymitis,Condition or Disease,Reproductive
+epiglottitis,Condition or Disease,EENT/Respiratory
+epilepsy,Condition or Disease,Neurological
+erythromelalgia,Condition or Disease,Vascular
+eye cancer,Condition or Disease,Oncology
+female genital mutilation,Condition or Disease,Reproductive
+fetal alcohol spectrum disorder,Condition or Disease,Developmental
+fibroids,Condition or Disease,Reproductive
+fibromyalgia,Condition or Disease,Musculoskeletal/Pain
+fish odour syndrome,Condition or Disease,Metabolic
+flat head syndrome,Condition or Disease,Pediatric Cranial
+flu,Condition or Disease,Infectious
+folate deficiency,Condition or Disease,Nutritional
+food poisoning,Condition or Disease,Infectious
+glutaric aciduria,Condition or Disease,Metabolic
+lambert eaton myasthenic syndrome,Condition or Disease,Neurological
+liver disease,Condition or Disease,Hepatic
+learning disabilities,Condition or Disease,Neurodevelopmental
+shingles,Condition or Disease,Infectious (Varicella-Zoster)
+sick building syndrome,Condition or Disease,Environmental
+sickle cell disease,Condition or Disease,Hematological
+silicosis,Condition or Disease,Respiratory
+sinus cancer,Condition or Disease,Oncology
+sinus infection,Condition or Disease,Respiratory/EENT
+sinusitis,Condition or Disease,EENT
+sjogren syndrome,Condition or Disease,Autoimmune
+skin cancer,Condition or Disease,Oncology
+sexually transmitted infection,Condition or Disease,Infectious
+slapped cheek syndrome,Condition or Disease,Infectious (Parvovirus)
+stevens johnson syndrome,Condition or Disease,Severe Skin/Mucosal
+stillbirth,Condition or Disease,Obstetric
+stomach cancer,Condition or Disease,Oncology
+stomach ulcer,Condition or Disease,Gastrointestinal
+strep a,Condition or Disease,Infectious
+stroke,Condition or Disease,Neurological
+subarachnoid haemorrhage,Condition or Disease,Neurological
+subdural haematoma,Condition or Disease,Neurological
+sudden infant death syndrome,Condition or Disease,Pediatric
+steroid misuse,Condition or Disease,Substance Use
+syphilis,Condition or Disease,Infectious (STI)
+septicaemia,Condition or Disease,Infectious
+sepsis,Condition or Disease,Infectious
+polycystic ovary syndrome,Condition or Disease,Reproductive
+polyhydramnios,Condition or Disease,Obstetric
+polymyalgia rheumatica,Condition or Disease,Autoimmune
+popliteal cyst,Condition or Disease,Musculoskeletal
+post polio syndrome,Condition or Disease,Neurological
+post traumatic stress disorder,Condition or Disease,Mental Health
+prader willi syndrome,Condition or Disease,Genetic
+pre eclampsia,Condition or Disease,Obstetric
+pregnancy,Condition or Disease,Obstetric
+septic arthritis,Condition or Disease,Infectious/Joint
+primary biliary cholangitis,Condition or Disease,Hepatic
+prostate cancer,Condition or Disease,Oncology
+prostate enlargement,Condition or Disease,Genitourinary
+prostatitis,Condition or Disease,Genitourinary
+scarlet fever,Condition or Disease,Infectious
+schistosomiasis,Condition or Disease,Parasitic
+schizophrenia,Condition or Disease,Mental Health
+scleroderma,Condition or Disease,Autoimmune
+scurvy,Condition or Disease,Nutritional/Vitamin C
+seasonal affective disorder,Condition or Disease,Mental Health
+progressive supranuclear palsy,Condition or Disease,Neurological
+tapeworm,Condition or Disease,Parasitic
+tay sachs disease,Condition or Disease,Genetic
+tb (tuberculosis),Condition or Disease,Infectious
+undescended testicles,Condition or Disease,Reproductive
+urethritis,Condition or Disease,Genitourinary
+urinary tract infections,Condition or Disease,Infectious
+uterine cancer,Condition or Disease,Oncology
+uti (urinary tract infection),Condition or Disease,Infectious
+uveitis,Condition or Disease,EENT
+vaginal cancer,Condition or Disease,Oncology
+vascular dementia,Condition or Disease,Neurological
+vasculitis,Condition or Disease,Autoimmune
+underactive thyroid,Condition or Disease,Endocrine
+vestibular neuritis,Condition or Disease,EENT/Neurological
+von willebrand disease,Condition or Disease,Hematological
+vulval cancer,Condition or Disease,Oncology
+weil disease,Condition or Disease,Infectious (Leptospira)
+whitlow finger (herpetic whitlow),Condition or Disease,Infectious
+whooping cough,Condition or Disease,Infectious
+wolff parkinson white syndrome,Condition or Disease,Cardiovascular
+womb cancer,Condition or Disease,Oncology
+worms in humans,Condition or Disease,Parasitic
+yellow fever,Condition or Disease,Infectious
+vestibular schwannoma,Condition or Disease,Neurological Tumor
+ulcerative colitis,Condition or Disease,Gastrointestinal
+typhus,Condition or Disease,Infectious
+typhoid fever,Condition or Disease,Infectious
+temporal arteritis,Condition or Disease,Vascular/Autoimmune
+testicular cancer,Condition or Disease,Oncology
+tetanus,Condition or Disease,Infectious
+thalassaemia,Condition or Disease,Hematological
+threadworms,Condition or Disease,Parasitic
+thyroid cancer,Condition or Disease,Oncology
+tia (transient ischaemic attack),Condition or Disease,Neurological
+tick borne encephalitis,Condition or Disease,Infectious
+tongue tie,Condition or Disease,Oral
+tonsillitis,Condition or Disease,EENT
+tourette syndrome,Condition or Disease,Neurological
+toxic shock syndrome,Condition or Disease,Infectious
+toxocariasis,Condition or Disease,Parasitic
+toxoplasmosis,Condition or Disease,Parasitic
+transient ischaemic attack,Condition or Disease,Neurological
+trichomoniasis,Condition or Disease,Infectious (STI)
+trimethylaminuria,Condition or Disease,Metabolic
+trisomy 18 (edward syndrome),Condition or Disease,Genetic
+tuberculosis,Condition or Disease,Infectious
+tuberous sclerosis,Condition or Disease,Genetic
+turner syndrome,Condition or Disease,Genetic
+polycystic kidney disease,Condition or Disease,Renal
+laryngeal cancer,Condition or Disease,Oncology
+polio,Condition or Disease,Infectious
+pneumonia,Condition or Disease,Respiratory
+japanese encephalitis,Condition or Disease,Infectious
+joint hypermobility syndrome,Condition or Disease,Musculoskeletal
+kawasaki disease,Condition or Disease,Pediatric/Autoimmune
+kidney cancer,Condition or Disease,Oncology
+kidney failure,Condition or Disease,Renal
+kidney infection,Condition or Disease,Infectious (Pyelonephritis)
+kidney stones,Condition or Disease,Renal
+klinefelter syndrome,Condition or Disease,Genetic
+labial fusion,Condition or Disease,Reproductive
+measle (measles),Condition or Disease,Infectious
+labyrinthitis,Condition or Disease,EENT
+laryngeal cancer,Condition or Disease,Oncology
+learning disabilities,Condition or Disease,Neurodevelopmental
+legionnaire disease,Condition or Disease,Infectious
+leptospirosis,Condition or Disease,Infectious
+leukaemia,Condition or Disease,Oncology
+lipoedema,Condition or Disease,Adipose
+lipoma,Condition or Disease,Benign Tumor
+listeriosis,Condition or Disease,Infectious
+liver cancer,Condition or Disease,Oncology
+lambert eaton myasthenic syndrome,Condition or Disease,Neurological
+liver disease,Condition or Disease,Hepatic
+mcadd (medium chain acyl coa dehydrogenase deficiency),Condition or Disease,Metabolic
+mastocytosis,Condition or Disease,Immune
+legionnaire disease,Condition or Disease,Infectious
+leptospirosis,Condition or Disease,Infectious
+leukaemia,Condition or Disease,Oncology
+lipoedema,Condition or Disease,Adipose
+lipoma,Condition or Disease,Benign Tumor
+listeriosis,Condition or Disease,Infectious
+liver cancer,Condition or Disease,Oncology
+compartment syndrome,Condition or Disease,Musculoskeletal
+long qt syndrome,Condition or Disease,Cardiac Electrophysiology
+mastoiditis,Condition or Disease,EENT
+lung cancer,Condition or Disease,Oncology
+lyme disease,Condition or Disease,Infectious
+macular degeneration,Condition or Disease,EENT
+macular hole,Condition or Disease,EENT
+malaria,Condition or Disease,Infectious
+malignant brain tumour,Condition or Disease,Oncology
+malnutrition,Condition or Disease,Nutritional
+maple syrup urine disease,Condition or Disease,Metabolic
+marfan syndrome,Condition or Disease,Genetic
+mastitis,Condition or Disease,Infection/Breast
+lupus,Condition or Disease,Autoimmune
+long qt syndrome,Condition or Disease,Cardiac Electrophysiology
+lung cancer,Condition or Disease,Oncology
+lupus,Condition or Disease,Autoimmune
+polyhydramnios,Condition or Disease,Obstetric
+polymyalgia rheumatica,Condition or Disease,Autoimmune
+popliteal cyst,Condition or Disease,Musculoskeletal
+post polio syndrome,Condition or Disease,Neurological
+post traumatic stress disorder,Condition or Disease,Mental Health
+prader willi syndrome,Condition or Disease,Genetic
+pre eclampsia,Condition or Disease,Obstetric
+pregnancy,Condition or Disease,Obstetric
+primary biliary cholangitis,Condition or Disease,Hepatic
+polycystic ovary syndrome,Condition or Disease,Reproductive
+progressive supranuclear palsy,Condition or Disease,Neurological
+prostate enlargement,Condition or Disease,Genitourinary
+prostatitis,Condition or Disease,Genitourinary
+peyronie disease,Condition or Disease,Penile Curvature
+phaeochromocytoma,Condition or Disease,Endocrine
+phenylketonuria,Condition or Disease,Metabolic
+piles,Condition or Disease,Anorectal
+pilonidal sinus,Condition or Disease,Anorectal
+plagiocephaly,Condition or Disease,Cranial Deformity
+pleurisy,Condition or Disease,Respiratory
+prostate cancer,Condition or Disease,Oncology
+polycystic kidney disease,Condition or Disease,Renal
+polio,Condition or Disease,Infectious
+poisoning,Condition or Disease,Toxicology
+lyme disease,Condition or Disease,Infectious
+macular degeneration,Condition or Disease,EENT
+macular hole,Condition or Disease,EENT
+malaria,Condition or Disease,Infectious
+malignant brain tumour,Condition or Disease,Oncology
+malnutrition,Condition or Disease,Nutritional
+maple syrup urine disease,Condition or Disease,Metabolic
+marfan syndrome,Condition or Disease,Genetic
+mastitis,Condition or Disease,Infection/Breast
+mastocytosis,Condition or Disease,Immune
+mastoiditis,Condition or Disease,EENT
+mcadd (medium chain acyl coa dehydrogenase deficiency),Condition or Disease,Metabolic
+measle (measles),Condition or Disease,Infectious
+peyronie disease,Condition or Disease,Penile Curvature
+phaeochromocytoma,Condition or Disease,Endocrine
+phenylketonuria,Condition or Disease,Metabolic
+piles,Condition or Disease,Anorectal
+pilonidal sinus,Condition or Disease,Anorectal
+plagiocephaly,Condition or Disease,Cranial Deformity
+pleurisy,Condition or Disease,Respiratory
+pneumonia,Condition or Disease,Respiratory
+poisoning,Condition or Disease,Toxicology
+common cold,Condition or Disease,Infectious
+hodgkin lymphoma,Condition or Disease,Oncology
+zika virus,Condition or Disease,Infectious
+cholera,Condition or Disease,Infectious
+alcohol related liver disease,Condition or Disease,Hepatic
+cholecystitis,Condition or Disease,Biliary
+cholangiocarcinoma,Condition or Disease,Oncology
+chlamydia,Condition or Disease,Infectious
+alkaptonuria,Condition or Disease,Metabolic
+allergic rhinitis,Condition or Disease,Allergy
+children flu,Condition or Disease,Infectious
+childhood cataracts,Condition or Disease,EENT
+allergies,Condition or Disease,Allergy
+chickenpox,Condition or Disease,Infectious
+chiari malformation,Condition or Disease,Neurological
+chest infection,Condition or Disease,Respiratory
+altitude sickness,Condition or Disease,Environmental
+charles bonnet syndrome,Condition or Disease,EENT/Neurological
+charcot marie tooth disease,Condition or Disease,Neurological
+alzheimer,Condition or Disease,Neurological/Dementia
+cancer,Condition or Disease,Oncology
+amniotic fluid,Condition or Disease,Obstetric
+carbon monoxide poisoning,Condition or Disease,Toxicology
+carcinoid syndrome,Condition or Disease,Oncology
+cardiac attack (heart attack),Condition or Disease,Cardiovascular
+cardiomyopathy,Condition or Disease,Cardiovascular
+cholesteatoma,Condition or Disease,EENT
+cardiovascular disease,Condition or Disease,Cardiovascular
+cataracts,Condition or Disease,EENT
+cavernoma,Condition or Disease,Neurological/Vascular
+cavernous sinus thrombosis,Condition or Disease,Neurological/Vascular
+cerebral palsy,Condition or Disease,Neurological
+cervical cancer,Condition or Disease,Oncology
+cervical spondylosis,Condition or Disease,Musculoskeletal
+carpal tunnel syndrome,Condition or Disease,Neurological/Orthopedic
+amyloidosis,Condition or Disease,Metabolic
+choriocarcinoma,Condition or Disease,Oncology
+chronic kidney disease,Condition or Disease,Renal
+charcot marie tooth disease,Condition or Disease,Neurological
+acute cholecystitis,Condition or Disease,Biliary
+acute kidney injury,Condition or Disease,Renal
+acute lymphoblastic leukaemia,Condition or Disease,Oncology
+acute myeloid leukaemia,Condition or Disease,Oncology
+cervical spondylosis,Condition or Disease,Musculoskeletal
+acute pancreatitis,Condition or Disease,Gastrointestinal
+cervical cancer,Condition or Disease,Oncology
+cerebral palsy,Condition or Disease,Neurological
+acute respiratory distress syndrome,Condition or Disease,Respiratory
+cavernous sinus thrombosis,Condition or Disease,Neurological/Vascular
+addison disease,Condition or Disease,Endocrine
+cavernoma,Condition or Disease,Neurological/Vascular
+adenomyosis,Condition or Disease,Reproductive
+cataracts,Condition or Disease,EENT
+age related cataracts,Condition or Disease,EENT
+age related macular degeneration,Condition or Disease,EENT
+chronic lymphocytic leukaemia,Condition or Disease,Oncology
+chronic myeloid leukaemia,Condition or Disease,Oncology
+alcohol poisoning,Condition or Disease,Toxicology
+alcohol misuse,Condition or Disease,Substance Use
+albinism,Condition or Disease,Genetic
+cancer,Condition or Disease,Oncology
+chronic fatigue syndrome,Condition or Disease,Neurological/Multisystem
+carbon monoxide poisoning,Condition or Disease,Toxicology
+cardiac attack (heart attack),Condition or Disease,Cardiovascular
+cardiomyopathy,Condition or Disease,Cardiovascular
+aids,Condition or Disease,Infectious/Immunologic
+cardiovascular disease,Condition or Disease,Cardiovascular
+carpal tunnel syndrome,Condition or Disease,Neurological/Orthopedic
+agoraphobia,Condition or Disease,Mental Health
+carcinoid syndrome,Condition or Disease,Oncology
+charles bonnet syndrome,Condition or Disease,EENT/Neurological
+anabolic steroid misuse,Condition or Disease,Substance Use
+brugada syndrome,Condition or Disease,Cardiovascular
+aspergillosis,Condition or Disease,Infectious
+bone cyst,Condition or Disease,Skeletal
+bone cancer,Condition or Disease,Oncology
+asphyxia,Condition or Disease,Respiratory
+asthma,Condition or Disease,Respiratory
+blood poisoning,Condition or Disease,Infectious (Sepsis)
+atherosclerosis,Condition or Disease,Cardiovascular
+atracheo oesophageal fistula,Condition or Disease,Congenital
+atrial fibrillation,Condition or Disease,Cardiovascular
+attention deficit hyperactivity disorder,Condition or Disease,Mental Health/Neurodevelopmental
+auditory processing disorder,Condition or Disease,Neurological
+autism,Condition or Disease,Neurodevelopmental
+autosomal dominant polycystic kidney disease,Condition or Disease,Renal
+autosomal recessive polycystic kidney disease,Condition or Disease,Renal
+avian flu,Condition or Disease,Infectious
+bladder stones,Condition or Disease,Genitourinary
+bladder pain syndrome,Condition or Disease,Genitourinary
+benign brain tumour,Condition or Disease,Neurological Tumor
+benign prostate enlargement,Condition or Disease,Genitourinary
+bent penis,Condition or Disease,Penile Deformity
+bile duct cancer,Condition or Disease,Oncology
+bilharzia,Condition or Disease,Parasitic
+behcet disease,Condition or Disease,Autoimmune
+asperger,Condition or Disease,Neurodevelopmental
+bipolar disorder,Condition or Disease,Mental Health
+bird flu,Condition or Disease,Infectious
+bartholin cyst,Condition or Disease,Reproductive
+balanitis,Condition or Disease,Genitourinary
+bladder cancer,Condition or Disease,Oncology
+baker cyst,Condition or Disease,Musculoskeletal
+bacterial vaginosis,Condition or Disease,Infectious
+bedbugs,Condition or Disease,Infestation
+anaemia,Condition or Disease,Hematological
+bone marrow (issues),Condition or Disease,Hematological
+arthritis,Condition or Disease,Musculoskeletal
+brucellosis,Condition or Disease,Infectious
+anal cancer,Condition or Disease,Oncology
+anal fissure,Condition or Disease,Anorectal
+anal fistula,Condition or Disease,Anorectal
+bronchitis,Condition or Disease,Respiratory
+bronchiolitis,Condition or Disease,Respiratory
+bronchiectasis,Condition or Disease,Respiratory
+androgen insensitivity syndrome,Condition or Disease,Genetic/Reproductive
+aneurysm,Condition or Disease,Cardiovascular
+angelman syndrome,Condition or Disease,Genetic
+ankylosing spondylitis,Condition or Disease,Musculoskeletal
+antiphospholipid syndrome,Condition or Disease,Autoimmune
+breast lump,Condition or Disease,Breast
+antisocial personality disorder,Condition or Disease,Mental Health
+breast cancer,Condition or Disease,Oncology
+breast calcifications,Condition or Disease,Imaging Finding
+breast abscess,Condition or Disease,Infection
+borderline personality disorder,Condition or Disease,Mental Health
+botulism,Condition or Disease,Infectious
+bowel cancer,Condition or Disease,Oncology
+bowel polyps,Condition or Disease,Gastrointestinal
+bowen disease,Condition or Disease,Skin (Precancer)
+appendicitis,Condition or Disease,Gastrointestinal
+asbestosis,Condition or Disease,Respiratory
+brachycephaly,Condition or Disease,Cranial Formation
+brain aneurysm,Condition or Disease,Neurological/Vascular
+brain cancer,Condition or Disease,Oncology
+brain death,Condition or Disease,Neurological
+brain haemorrhage,Condition or Disease,Neurological
+brain lesions,Condition or Disease,Neurological
+brain tumour,Condition or Disease,Oncology
+brain abscess,Condition or Disease,Neurological/Infectious
+chest infection,Condition or Disease,Respiratory
+bell palsy,Condition or Disease,Neurological
+acromegaly,Condition or Disease,Endocrine
+actinomycosis,Condition or Disease,Infectious
+coeliac disease,Condition or Disease,Gastrointestinal
+children flu,Condition or Disease,Infectious
+choriocarcinoma,Condition or Disease,Oncology
+abdominal aortic aneurysm,Condition or Disease,Cardiovascular
+cirrhosis,Condition or Disease,Hepatic
+achalasia,Condition or Disease,Gastrointestinal
+acoustic neuroma,Condition or Disease,Neurological Tumor
+chronic obstructive pulmonary disease,Condition or Disease,Respiratory
+chronic myeloid leukaemia,Condition or Disease,Oncology
+chronic fatigue syndrome,Condition or Disease,Neurological/Multisystem
+cleft lip,Condition or Disease,Congenital
+chlamydia,Condition or Disease,Infectious
+club foot,Condition or Disease,Congenital Orthopedic
+clostridium difficile infection,Condition or Disease,Infectious
+abortion,Condition or Disease,Obstetric
+cholesteatoma,Condition or Disease,EENT
+chronic lymphocytic leukaemia,Condition or Disease,Oncology
+chronic kidney disease,Condition or Disease,Renal
+cholangiocarcinoma,Condition or Disease,Oncology
+cholera,Condition or Disease,Infectious
+childhood cataracts,Condition or Disease,EENT
+chronic traumatic encephalopathy,Condition or Disease,Neurological
+cholecystitis,Condition or Disease,Biliary
+chiari malformation,Condition or Disease,Neurological
+chickenpox,Condition or Disease,Infectious
+colon cancer,Condition or Disease,Oncology
+chronic pancreatitis,Condition or Disease,Gastrointestinal
+tooth knocked out,Dental & Oral,Avulsion
+chipped tooth,Dental & Oral,Fracture
+toothache,Dental & Oral,Pain
+gum swelling,Dental & Oral,Gingival Swelling
+bad breath,Dental & Oral,Halitosis
+halitosis,Dental & Oral,Bad Breath
+teeth grinding,Dental & Oral,Bruxism
+bruised tooth,Dental & Oral,Injury
+chipped tooth,Dental & Oral,Fracture
+bleeding gums,Dental & Oral,Gum Symptom
+false teeth,Dental & Oral,Dentures
+yellow tongue,Dental & Oral,Tongue Discoloration
+tooth decay,Dental & Oral,Caries
+dental abscess,Dental & Oral,Infection
+xerostomia,Dental & Oral,Dry Mouth
+knocked out tooth,Dental & Oral,Avulsion
+dry mouth,Dental & Oral,Xerostomia
+bruxism,Dental & Oral,Teeth Grinding
+bruxism,Dental & Oral,Teeth Grinding
+dental pain,Dental & Oral,Odontalgia
+broken tooth,Dental & Oral,Fracture
+breath odor,Dental & Oral,Halitosis
+knocked out tooth,Dental & Oral,Avulsion
+bitterness in mouth,Dental & Oral,Taste Disturbance
+cracked tooth,Dental & Oral,Injury
+gum disease,Dental & Oral,Periodontal
+dentures,Dental & Oral,Prosthetic
+gingival bleeding,Dental & Oral,Bleeding Gums
+white tongue,Dental & Oral or GI,Tongue Coating
+thrush,Dental & Oral or Reproductive,Fungal
+amblyopia,EENT,Visual Impairment
+dry eyes,EENT,Ocular Dryness
+long sightedness,EENT,Hyperopia
+hearing distortion,EENT,Hearing Disturbance
+floaters in the eyes,EENT,Visual Phenomena
+floaters and flashes in the eyes,EENT,Visual Phenomena
+eardrum burst,EENT,Injury
+bulging eyes,EENT,Exophthalmos
+detached retina,EENT,Retinal Detachment
+dry eye,EENT,Ocular Dryness
+long sightedness,EENT,Hyperopia
+postnasal drip,EENT,Nasal
+sensitivity to glare,EENT,Light Sensitivity
+throat tightness,EENT,Constriction
+throat irritation,EENT,Irritation
+laryngitis,EENT,Inflammation
+bulging eyes,EENT,Exophthalmos
+larynx,EENT,Organ
+lazy eye,EENT,Amblyopia
+earwax build up,EENT,Impaction
+stye,EENT,Eyelid Infection
+behind the eye (pain or symptom),EENT,Retro-orbital
+lacrimation,EENT,Tearing
+corneal clouding,EENT,Visual Disturbance
+blindness,EENT,Vision Loss
+stuff nose (stuffy nose),EENT,Blockage
+fullness in ears,EENT,Ear Sensation
+blind spot,EENT,Visual Disturbance
+tinnitus,EENT,Ear Noise
+hoarse voice,EENT,Larynx
+blepharitis,EENT,Eyelid Inflammation
+colour vision deficiency,EENT,Visual Disturbance
+difficulty hearing,EENT,Hearing Loss
+colour blindness,EENT,Visual Disturbance
+sudden vision loss,EENT,Acute Vision Loss
+scotoma,EENT,Visual Field Defect
+postnasal drip,EENT,Nasal
+hyperacusis,EENT,Hearing Sensitivity
+flashing lights in vision,EENT,Visual Phenomena
+visual snow,EENT,Visual Phenomena
+watering eyes,EENT,Excessive Tearing
+photophobia,EENT,Light Sensitivity
+astigmatism,EENT,Vision Problem
+excess tearing,EENT,Tearing
+excess earwax,EENT,Impaction
+blurred vision,EENT,Visual Disturbance
+lazy eye,EENT,Amblyopia
+ear discharge,EENT,Ear Symptom
+swollen eyelids,EENT,Edema
+increased sensitivity to light,EENT,Photophobia
+tearing eyes,EENT,Epiphora
+increased sensitivity to sound,EENT,Hyperacusis
+epiphora,EENT,Excessive Tearing
+hearing loss,EENT,Deafness
+photophobia,EENT,Light Sensitivity
+sinus pressure,EENT,Sinus
+broken nose,EENT,Fracture
+larynx,EENT,Organ
+acute vision loss,EENT,Visual Disturbance
+laryngitis,EENT,Inflammation
+lacrimation,EENT,Tearing
+epistaxis,EENT,Nosebleed
+excessive tearing,EENT,Epiphora
+watery eyes,EENT,Excessive Tearing
+eye redness,EENT,Red Eye
+deafness,EENT,Hearing Loss
+eyelid swelling,EENT,Swelling
+eyelid problems,EENT,Eyelid
+eye twitching,EENT,Myokymia
+ear pain,EENT,Otalgia
+ear ringing,EENT,Tinnitus
+eye pain,EENT,Ocular Pain
+eye injuries,EENT,Injury
+eye infection,EENT,Infection
+earache,EENT,Otalgia
+crusting around eyelids,EENT,Eyelid Symptom
+eye floaters,EENT,Visual Phenomena
+eye flashes,EENT,Visual Phenomena
+eye discharge,EENT,Discharge
+impaired color vision,EENT,Vision Disturbance
+gritty eyes,EENT,Eye Irritation
+exophthalmos,EENT,Bulging Eyes
+short sightedness,EENT,Myopia
+vision loss,EENT,Blindness
+voice cracking,EENT or Neurological,Voice Disturbance
+twitching eyes,EENT or Neurological,Blepharospasm
+impaired depth perception,EENT or Neurological,Vision Disturbance
+loss of voice,EENT or Neurological,Aphonia
+loss of voice,EENT or Neurological,Aphonia
+choking sensation,ENT,Airway Obstruction
+choking sensation,ENT,Airway Obstruction
+polyuria,Endocrine & Metabolic,Frequent Urination
+polyphagia,Endocrine & Metabolic,Excess Hunger
+acetone breath,Endocrine & Metabolic,DKA Sign
+polydipsia,Endocrine & Metabolic,Excess Thirst
+early puberty,Endocrine & Metabolic,Hormonal
+high cholesterol,Endocrine & Metabolic,Hyperlipidemia
+increased hair growth,Endocrine & Metabolic,Hirsutism
+excessive hair growth,Endocrine & Metabolic,Hirsutism
+excessive hunger,Endocrine & Metabolic,Polyphagia
+polydipsia,Endocrine & Metabolic,Excess Thirst
+excessive thirst,Endocrine & Metabolic,Polydipsia
+low potassium,Endocrine & Metabolic,Hypokalemia
+polyphagia,Endocrine & Metabolic,Excess Hunger
+hypokalemia,Endocrine & Metabolic,Low Potassium
+hypoglycaemia,Endocrine & Metabolic,Low Blood Sugar
+hyperuricemia,Endocrine & Metabolic,Uric Acid
+high blood sugar,Endocrine & Metabolic,Hyperglycemia
+polyuria,Endocrine & Metabolic,Frequent Urination
+hyperkalemia,Endocrine & Metabolic,High Potassium
+hyperglycaemia,Endocrine & Metabolic,High Blood Sugar
+low blood sugar,Endocrine & Metabolic,Hypoglycemia
+hirsutism,Endocrine & Metabolic,Excess Hair
+low blood sugar,Endocrine & Metabolic,Hypoglycemia
+high uric acid level,Endocrine & Metabolic,Hyperuricemia
+high potassium,Endocrine & Metabolic,Hyperkalemia
+cold intolerance,Endocrine & Metabolic,Temperature Regulation
+low potassium,Endocrine & Metabolic,Hypokalemia
+abnormally frequent urination,Endocrine & Metabolic,Polyuria
+delayed puberty,Endocrine & Metabolic,Hormonal
+euthanasia suicide,Ethical/Administrative,End-of-Life
+cardiopulmonary resuscitation decisions,Ethical/Administrative,Resuscitation
+cardiopulmonary resuscitation decisions,Ethical/Administrative,Resuscitation
+incontinence of feces,Gastrointestinal,Incontinence
+proctalgia,Gastrointestinal,Rectal Pain
+lactose intolerance,Gastrointestinal,Food Intolerance
+intestinal gas,Gastrointestinal,Flatulence
+vomiting,Gastrointestinal,Emesis
+indigestion,Gastrointestinal,Upper GI
+darkening of stool,Gastrointestinal,Stool Color
+stomach burning,Gastrointestinal,Epigastric Pain
+loss of bowel control,Gastrointestinal,Incontinence
+heartburn,Gastrointestinal,Reflux
+loose stools,Gastrointestinal,Diarrhea
+heartburn reflux,Gastrointestinal,Reflux
+stool incontinence,Gastrointestinal,Incontinence
+stomach cramps,Gastrointestinal,Pain
+hematemesis,Gastrointestinal,Vomiting Blood
+stomach ache,Gastrointestinal,Pain
+hematochezia,Gastrointestinal,Blood in Stool
+bowel incontinence,Gastrointestinal,Incontinence
+vomiting bug,Gastrointestinal,Infectious
+acid reflux,Gastrointestinal,Reflux
+anal pain,Gastrointestinal,Anorectal Pain
+stomach bug,Gastrointestinal,Infectious
+anorexia,Gastrointestinal,Appetite Disturbance
+diarrhea,Gastrointestinal,Bowel Symptom
+blood in stool,Gastrointestinal,Hematochezia
+gas,Gastrointestinal,Flatulence
+green stool,Gastrointestinal,Stool Color
+farting,Gastrointestinal,Flatulence
+winter vomiting bug,Gastrointestinal,Infectious (Norovirus)
+loss of bowel control,Gastrointestinal,Incontinence
+loose stools,Gastrointestinal,Diarrhea
+flatulence,Gastrointestinal,Gas
+abdominal bloating,Gastrointestinal,Distension
+food intolerance,Gastrointestinal,Intolerance
+proctalgia,Gastrointestinal,Rectal Pain
+abdominal distension,Gastrointestinal,Distension
+bleeding from the bottom,Gastrointestinal,Rectal Bleeding
+abdominal pain,Gastrointestinal,Pain
+frequent bowel movements,Gastrointestinal,Increased Frequency
+throwing up,Gastrointestinal,Vomiting
+gallbladder pain,Gastrointestinal,RUQ Pain
+bloating,Gastrointestinal,Distension
+lactose intolerance,Gastrointestinal,Food Intolerance
+black tarry stools,Gastrointestinal,Melena
+abdominal cramping,Gastrointestinal,Pain
+upper abdominal pain,Gastrointestinal,Pain
+constipation,Gastrointestinal,Bowel Symptom
+early satiety,Gastrointestinal,Fullness
+tummy ache,Gastrointestinal,Pain
+diarrhoea,Gastrointestinal,Bowel Symptom
+itchy bottom,Gastrointestinal/Anorectal,Pruritus Ani
+itchy anus,Gastrointestinal/Anorectal,Pruritus Ani
+unintentional weight gain,General & Constitutional,Weight
+unintentional weight loss,General & Constitutional,Weight
+breath,General & Constitutional,Breath Symptom
+easy fatigability,General & Constitutional,Fatigue
+tiredness,General & Constitutional,Fatigue
+cramping pain,General & Constitutional,Pain
+appetite changes,General & Constitutional,Nonspecific
+shivering,General & Constitutional,Chills
+shaking chills,General & Constitutional,Rigors
+lethargy,General & Constitutional,Fatigue
+sensitivity to heat,General & Constitutional,Temperature Sensitivity
+sensitivity to cold,General & Constitutional,Temperature Sensitivity
+hyperhidrosis,General & Constitutional,Excess Sweating
+lack of appetite,General & Constitutional,Appetite
+increased appetite,General & Constitutional,Hyperphagia
+malignant,General & Constitutional,Descriptor
+poor appetite,General & Constitutional,Reduced
+low body temperature,General & Constitutional,Hypothermia
+fever,General & Constitutional,High Temperature
+feeling sick,General & Constitutional,Nonspecific
+fatigue,General & Constitutional,Tiredness
+cold sweats,General & Constitutional,Sweating
+lethargy,General & Constitutional,Fatigue
+exhaustion,General & Constitutional,Fatigue
+excessive sweating,General & Constitutional,Hyperhidrosis
+chills,General & Constitutional,Cold Sensation
+lumps,General & Constitutional,Swelling
+lassitude,General & Constitutional,Fatigue
+edema,General & Constitutional,Swelling
+lassitude,General & Constitutional,Fatigue
+weariness,General & Constitutional,Fatigue
+high temperature,General & Constitutional,Fever
+swelling of the legs,General & Constitutional,Edema
+swelling,General & Constitutional,Edema
+weight changes,General & Constitutional,Weight
+benign,General & Constitutional,Descriptor
+swollen ankles,General & Constitutional,Edema
+poor appetite,General & Constitutional,Reduced
+swelling of arms,General & Constitutional,Edema
+weight loss,General & Constitutional,Weight
+swollen arms,General & Constitutional,Edema
+thirst,General & Constitutional,Polydipsia
+sweating,General & Constitutional,Hyperhidrosis
+lumps,General & Constitutional,Swelling
+body aches,General & Constitutional,Pain
+body odour,General & Constitutional,Odour
+chills,General & Constitutional,Cold Sensation
+abnormal sweating,General & Constitutional,Excessive or Abnormal Sweating
+low body temperature,General & Constitutional,Hypothermia
+malignant,General & Constitutional,Descriptor
+lack of appetite,General & Constitutional,Appetite
+hiccups,General & Constitutional,Involuntary Spasm
+decreased urine output,Genitourinary,Oliguria
+low urine output,Genitourinary,Oliguria
+hematuria,Genitourinary,Blood in Urine
+urine leakage on coughing,Genitourinary,Stress Incontinence
+incontinence of urine,Genitourinary,Incontinence
+blood in urine,Genitourinary,Hematuria
+proteinuria,Genitourinary,Protein in Urine
+kidney pain,Genitourinary,Flank Pain
+urinary hesitancy,Genitourinary,Voiding Difficulty
+urinary dribbling,Genitourinary,Incontinence
+urine odor,Genitourinary,Odor
+trouble urinating,Genitourinary,Voiding Difficulty
+dysuria,Genitourinary,Painful Urination
+proteinuria,Genitourinary,Protein in Urine
+kidney pain,Genitourinary,Flank Pain
+weak urine stream,Genitourinary,Voiding Difficulty
+dark urine,Genitourinary,Urine Color
+urinary incontinence,Genitourinary,Incontinence
+cloudy urine,Genitourinary,Urine Appearance
+burning sensation on urination,Genitourinary,Dysuria
+urinary urgency,Genitourinary,Frequency
+low urine output,Genitourinary,Oliguria
+frequent urination,Genitourinary,Frequency
+urinary retention,Genitourinary,Voiding Difficulty
+urine discoloration,Genitourinary,Color
+stress incontinence,Genitourinary,Incontinence
+foamy urine,Genitourinary,Urine Appearance
+burning sensation on urination,Genitourinary,Dysuria
+bruising easily,Hematological,Bleeding Tendency
+thrombophilia,Hematological,Coagulation
+clots,Hematological,Thrombosis
+abnormal bleeding,Hematological or Bleeding Symptom,Unspecified
+blood clots,Hematological or Vascular,Thrombus
+yellow eye,Hepatic or Hemolysis,Jaundice
+jaundice,Hepatic or Hemolysis,Yellowing
+jaundice,Hepatic or Hemolysis,Yellowing
+swollen lymph nodes,Immune-Related,Lymphadenopathy
+enlarged lymph nodes,Immune-Related,Lymphadenopathy
+swollen glands,Immune-Related,Lymphadenopathy
+lymphoedema,Immune-Related or Vascular,Edema
+lymphoedema,Immune-Related or Vascular,Edema
+chemical burn,Injury or Wound,Chemical
+cat bite,Injury or Wound,Animal Bite
+chemical burn,Injury or Wound,Chemical
+head injury,Injury or Wound,Trauma
+insect bite,Injury or Wound,Insect
+acid burn,Injury or Wound,Chemical Burn
+tick bite,Injury or Wound,Animal
+animal bites,Injury or Wound,Trauma
+burns,Injury or Wound,Thermal Injury
+stings,Injury or Wound,Insect
+dog bites,Injury or Wound,Animal Bite
+black eye,Injury or Wound,Trauma to Eye
+whiplash,Injury or Wound,Neck
+burns,Injury or Wound,Thermal Injury
+human bites,Injury or Wound,Bite
+graze,Injury or Wound,Abrasion
+cut,Injury or Wound,Laceration
+frostbite,Injury or Wound,Cold Injury
+cat bite,Injury or Wound,Animal Bite
+abnormal liver enzymes,Lab/Diagnostic Finding,Liver
+potassium test,Lab/Diagnostic Finding,Electrolyte
+low hemoglobin count,Lab/Diagnostic Finding,Anemia
+protein in urine,Lab/Diagnostic Finding,Proteinuria
+magnesium test,Lab/Diagnostic Finding,Electrolyte
+leukocytosis,Lab/Diagnostic Finding,High WBC
+vitamins,Lab/Diagnostic Finding,Nutritional
+low hemoglobin count,Lab/Diagnostic Finding,Anemia
+protein in urine,Lab/Diagnostic Finding,Proteinuria
+potassium test,Lab/Diagnostic Finding,Electrolyte
+leukopenia,Lab/Diagnostic Finding,Low WBC
+leukocytosis,Lab/Diagnostic Finding,High WBC
+low neutrophil count,Lab/Diagnostic Finding,Neutropenia
+lactate dehydrogenase test,Lab/Diagnostic Finding,Blood
+low white blood cell count,Lab/Diagnostic Finding,Leukopenia
+lymphocytosis,Lab/Diagnostic Finding,High Lymphocytes
+leukopenia,Lab/Diagnostic Finding,Low WBC
+magnesium test,Lab/Diagnostic Finding,Electrolyte
+phosphate test,Lab/Diagnostic Finding,Electrolyte
+lactate dehydrogenase test,Lab/Diagnostic Finding,Blood
+lymphocytosis,Lab/Diagnostic Finding,High Lymphocytes
+low neutrophil count,Lab/Diagnostic Finding,Neutropenia
+phosphate test,Lab/Diagnostic Finding,Electrolyte
+low white blood cell count,Lab/Diagnostic Finding,Leukopenia
+high blood protein,Lab/Diagnostic Finding,Blood Chemistry
+high eosinophils,Lab/Diagnostic Finding,White Cell Count
+transferrin test,Lab/Diagnostic Finding,Iron Studies
+erythrocytosis,Lab/Diagnostic Finding,High RBC
+high liver enzymes,Lab/Diagnostic Finding,Hepatic
+uric acid level,Lab/Diagnostic Finding,Metabolic
+iron binding capacity,Lab/Diagnostic Finding,Iron Studies
+eosinophilia,Lab/Diagnostic Finding,Blood Count
+high hemoglobin count,Lab/Diagnostic Finding,Blood
+high red blood cell count,Lab/Diagnostic Finding,Blood
+high lymphocyte count,Lab/Diagnostic Finding,White Cell Count
+urine albumin to creatinine ratio,Lab/Diagnostic Finding,Proteinuria
+hemoglobin count,Lab/Diagnostic Finding,Blood
+high white blood cell count,Lab/Diagnostic Finding,Leukocytosis
+cholesterol,Lab/Diagnostic Finding,Lipid
+elevated liver enzymes,Lab/Diagnostic Finding,Hepatic
+cholesterol,Lab/Diagnostic Finding,Lipid
+claustrophobia,Mental Health,Phobia
+postpartum psychosis,Mental Health,Psychosis
+postnatal depression,Mental Health,Depression
+apathy,Mental Health,Depressive/Apathetic Symptom
+skin picking disorder,Mental Health,Excoriation
+induced illness (factitious disorder?),Mental Health,Factitious
+anhedonia,Mental Health,Depressive Symptom
+loss of interest,Mental Health,Anhedonia
+health anxiety,Mental Health,Anxiety
+auditory hallucinations,Mental Health,Psychotic Symptom
+anxiety,Mental Health,Anxiety or Stress
+postpartum psychosis,Mental Health,Psychosis
+bulimia,Mental Health,Eating Disorder
+postnatal depression,Mental Health,Depression
+generalised anxiety disorder,Mental Health,Anxiety
+hypersexuality,Mental Health,Impulse Control
+bulimia,Mental Health,Eating Disorder
+lack of emotional response,Mental Health,Flat Affect
+delusions,Mental Health,Psychotic Symptom
+hair pulling disorder,Mental Health,Trichotillomania
+pica,Mental Health,Eating Disorder
+tearfulness,Mental Health,Emotional
+phobias,Mental Health,Anxiety
+low mood,Mental Health,Depression
+fluctuating mood,Mental Health,Mood Swings
+hallucinations,Mental Health,Psychotic Symptom
+flat affect,Mental Health,Emotional Blunting
+anorexia nervosa,Mental Health,Eating Disorder
+eating disorders,Mental Health,Eating Disorder
+phobias,Mental Health,Anxiety
+hearing voices,Mental Health,Auditory Hallucination
+binge eating disorder,Mental Health,Eating Disorder
+pica,Mental Health,Eating Disorder
+irritability,Mental Health,Mood
+emotional detachment,Mental Health,Apathy/Dissociation
+self harm,Mental Health,Behavior
+selective mutism,Mental Health,Anxiety
+body dysmorphic disorder,Mental Health,Anxiety/Obsessive
+agitation,Mental Health,Anxiety or Hyperarousal
+low mood,Mental Health,Depression
+trichotillomania,Mental Health,Hair Pulling
+loss of interest,Mental Health,Anhedonia
+depersonalization,Mental Health,Dissociation
+depression,Mental Health,Depressive Disorder
+lack of emotional response,Mental Health,Flat Affect
+feelings of impending doom,Mental Health,Anxiety/Panic
+suicidal ideation,Mental Health,Suicidal Thoughts
+low sex drive,Mental Health or Endocrine,Libido
+loss of libido,Mental Health or Endocrine,Sexual
+loss of libido,Mental Health or Endocrine,Sexual
+decreased libido,Mental Health or Endocrine,Sexual Disturbance
+low sex drive,Mental Health or Endocrine,Libido
+short attention span,Mental Health or Neuro,ADHD
+fidgeting,Mental Health or Neurological,Restlessness
+visual hallucinations,Mental Health or Neurological,Hallucination
+impaired judgment,Mental Health or Neurological,Executive Function
+hyperactivity,Mental Health/Neurological,ADHD Symptom
+tendonitis,Musculoskeletal,Inflammation
+temporomandibular disorder,Musculoskeletal,TMJ
+jaw pain,Musculoskeletal,TMJ or Dental
+tailbone pain,Musculoskeletal,Coccyx Pain
+joint stiffness,Musculoskeletal,Stiffness
+plantar fasciitis,Musculoskeletal,Foot
+hand pain,Musculoskeletal,Hand Pain
+joint swelling,Musculoskeletal,Swelling
+mallet finger,Musculoskeletal,Injury
+coccyx pain,Musculoskeletal,Spinal Pain
+bone fragility,Musculoskeletal,Osteopenia
+hand problems,Musculoskeletal,Hand Issues
+joint pain,Musculoskeletal,Arthralgia
+costochondritis,Musculoskeletal,Chest Wall Pain
+ankle problems,Musculoskeletal,Joint Issue
+knee cartilage damage,Musculoskeletal,Injury
+flat feet,Musculoskeletal,Foot Deformity
+loss of muscle mass,Musculoskeletal,Atrophy
+fingure problems (typo: finger),Musculoskeletal,Digital Issues
+finger pain,Musculoskeletal,Digital Pain
+back stiffness,Musculoskeletal,Spinal Stiffness
+lower back pain,Musculoskeletal,Back Pain
+toe pain,Musculoskeletal,Foot
+lumbago,Musculoskeletal,Back Pain
+wrist pain,Musculoskeletal,Joint Pain
+upper back pain,Musculoskeletal,Spine
+plantar fasciitis,Musculoskeletal,Foot
+wrist problems,Musculoskeletal,Joint
+mallet finger,Musculoskeletal,Injury
+elbow pain,Musculoskeletal,Joint Pain
+trigger finger,Musculoskeletal,Tendon
+back pain,Musculoskeletal,Spinal Pain
+tmd (temporomandibular disorder),Musculoskeletal,TMJ
+foot pain,Musculoskeletal,Foot Pain
+knee pain,Musculoskeletal,Joint Pain
+knee problem,Musculoskeletal,Joint Issue
+knock knees,Musculoskeletal,Alignment
+kyphosis,Musculoskeletal,Spinal Curvature
+thigh problems,Musculoskeletal,Leg
+dislocated kneecap,Musculoskeletal,Dislocation
+dislocated shoulder,Musculoskeletal,Dislocation
+thumb pain,Musculoskeletal,Hand
+bunions,Musculoskeletal,Foot Deformity
+bone pain,Musculoskeletal,Pain
+leg cramps,Musculoskeletal,Cramp
+leg pain,Musculoskeletal,Extremity Pain
+buttock pain,Musculoskeletal,Gluteal Pain
+frozen shoulder,Musculoskeletal,Shoulder Stiffness
+calf problems,Musculoskeletal,Lower Leg Pain
+tennis elbow,Musculoskeletal,Inflammation
+bursitis,Musculoskeletal,Inflammation
+hamstring injury,Musculoskeletal,Injury
+bone spur,Musculoskeletal,Exostosis
+shin splints,Musculoskeletal,Lower Leg
+broken collarbone,Musculoskeletal,Fracture
+scoliosis,Musculoskeletal,Spinal Curvature
+buttock pain,Musculoskeletal,Gluteal Pain
+broken toe,Musculoskeletal,Fracture
+bursitis,Musculoskeletal,Inflammation
+bunions,Musculoskeletal,Foot Deformity
+knee cartilage damage,Musculoskeletal,Injury
+ankle pain,Musculoskeletal,Joint Pain
+knee pain,Musculoskeletal,Joint Pain
+knee problem,Musculoskeletal,Joint Issue
+broken finger or thumb,Musculoskeletal,Fracture
+knock knees,Musculoskeletal,Alignment
+kyphosis,Musculoskeletal,Spinal Curvature
+stiff joints,Musculoskeletal,Joint Stiffness
+sholuder problems (shoulder?),Musculoskeletal,Shoulder
+broken hip,Musculoskeletal,Fracture
+broken leg,Musculoskeletal,Fracture
+leg pain,Musculoskeletal,Extremity Pain
+leg cramps,Musculoskeletal,Cramp
+shoulder impingement,Musculoskeletal,Shoulder
+shoulder pain,Musculoskeletal,Shoulder
+shoulder stiffness,Musculoskeletal,Shoulder
+ankle instability,Musculoskeletal,Joint Instability
+broken wrist,Musculoskeletal,Fracture
+loss of muscle mass,Musculoskeletal,Atrophy
+shin pain,Musculoskeletal,Lower Leg
+strains,Musculoskeletal,Injury
+broken ribs,Musculoskeletal,Fracture
+heel pain,Musculoskeletal,Foot Pain
+arm pain,Musculoskeletal,Extremity Pain
+achy joints,Musculoskeletal,Joint Pain
+joint swelling,Musculoskeletal,Swelling
+lumbago,Musculoskeletal,Back Pain
+lower back pain,Musculoskeletal,Back Pain
+jaw pain,Musculoskeletal,TMJ or Dental
+broken arm,Musculoskeletal,Fracture
+bone swelling,Musculoskeletal,Swelling
+hip pain,Musculoskeletal,Joint Pain
+broken ankle,Musculoskeletal,Fracture
+joint stiffness,Musculoskeletal,Stiffness
+joint pain,Musculoskeletal,Arthralgia
+arthralgia,Musculoskeletal,Joint Pain
+calf problems,Musculoskeletal,Lower Leg Pain
+flank pain,Musculoskeletal or Genitourinary,Side Pain
+groin pain,Musculoskeletal or Reproductive,Groin
+foot problems,Musculoskeletal or Skin,Foot Issues
+subcutaneous nodules,Musculoskeletal or Skin,Lesion
+jaw claudication,Musculoskeletal or Vascular,Jaw Pain
+jaw claudication,Musculoskeletal or Vascular,Jaw Pain
+protruding tongue,Neur,
+protruding tongue,Neur,
+loss of sensation,Neurological,Sensory
+prosopagnosia,Neurological,Face Blindness
+unresponsive episodes,Neurological,Altered Consciousness
+loss of smell,Neurological,Anosmia
+shaking,Neurological,Tremor
+loss of balance,Neurological,Coordination
+loss of facial expression,Neurological,Facial Nerve
+loss of feeling,Neurological,Sensory Loss
+loss of speech,Neurological,Aphasia
+loss of taste,Neurological,Ageusia
+tongue numbness,Neurological,Oral Sensation
+Weakness,Neurological,Muscular
+shaking hands,Neurological,Tremor
+sensation loss,Neurological,Sensory
+lack of coordination,Neurological,Ataxia
+seizure,Neurological,Fits
+trouble speaking,Neurological,Speech Disturbance
+anosmia,Neurological,Smell Disturbance
+twitching muscles,Neurological,Fasciculations
+trigeminal neuralgia,Neurological,Nerve Pain
+tremor hands,Neurological,Tremor
+balance difficulty,Neurological,Coordination
+confusion,Neurological,Altered Mental Status
+dysgeusia,Neurological,Taste Disturbance
+essential tremor,Neurological,Tremor
+tremor at rest,Neurological,Tremor
+dysarthria,Neurological,Speech Disorder
+face blindness,Neurological,Prosopagnosia
+facial droop,Neurological,Facial Nerve
+ageusia,Neurological,Taste Disturbance
+changed sense of smell,Neurological,Smell Disturbance
+acute confusion,Neurological,Delirium
+fits,Neurological,Seizure
+concussion,Neurological,Traumatic Brain Injury
+impaired taste,Neurological,Taste Disturbance
+disorientation,Neurological,Confusion
+changed sense of smell,Neurological,Smell Disturbance
+prosopagnosia,Neurological,Face Blindness
+poor coordination,Neurological,Ataxia
+hyperosmia,Neurological,Smell Sensitivity
+delirium,Neurological,Acute Confusion
+vertigo,Neurological,Spinning
+lack of coordination,Neurological,Ataxia
+loss of balance,Neurological,Coordination
+hemiparesis,Neurological,Weakness One Side
+difficulty speaking,Neurological,Speech Disturbance
+loss of facial expression,Neurological,Facial Nerve
+loss of feeling,Neurological,Sensory Loss
+tension headache,Neurological,Headache
+post herpetic neuralgia,Neurological,Shingles Complication
+loss of sensation,Neurological,Sensory
+loss of smell,Neurological,Anosmia
+ataxia,Neurological,Coordination
+loss of speech,Neurological,Aphasia
+loss of taste,Neurological,Ageusia
+altered gait,Neurological,Coordination
+arm numbness,Neurological,Nerve/Peripheral
+poor coordination,Neurological,Ataxia
+sudden confusion,Neurological,Delirium
+weakness on one side of body,Neurological,Hemiparesis
+amnesia,Neurological,Memory
+dizziness,Neurological,Vertigo
+altered mental status,Neurological,Altered Consciousness
+hand numbness,Neurological,Nerve Symptom
+hypogeusia,Neurological,Taste Disturbance
+post herpetic neuralgia,Neurological,Shingles Complication
+coordination problems,Neurological,Ataxia
+foot drop,Neurological,Motor Deficit
+prickling,Neurological,Paresthesia
+unsteady gait,Neurological,Ataxia
+lightheadedness,Neurological,Syncope or Presyncope
+forgetfulness,Neurological,Cognition
+headache,Neurological,Pain
+frontal headache,Neurological,Headache
+stml (*possibly short term memory loss?),Neurological,Memory
+aphonia,Neurological,Speech/Voice Disturbance
+aphasia,Neurological,Language Disturbance
+tingling,Neurological,Paresthesia
+tics,Neurological,Involuntary Movement
+cluster headache,Neurological,Headache
+brain fog,Neurological,Cognitive Impairment
+decreased coordination,Neurological,Ataxia
+prickling,Neurological,Paresthesia
+hand tremors,Neurological,Tremor
+lightheadedness,Neurological,Syncope or Presyncope
+tingling extremities,Neurological,Paresthesia
+loss of consciousness,Neurological or Cardiovascular,Syncope
+postural dizziness,Neurological or Cardiovascular,Orthostatic
+syncope,Neurological or Cardiovascular,Fainting
+postural dizziness,Neurological or Cardiovascular,Orthostatic
+loss of consciousness,Neurological or Cardiovascular,Syncope
+fainting,Neurological or Cardiovascular,Syncope
+generalised weakness,Neurological or Constitutional,Weakness
+language difficulties,Neurological or Developmental,Aphasia or Dyslexia
+language difficulties,Neurological or Developmental,Aphasia or Dyslexia
+diplopia,Neurological or EENT,Double Vision
+double vision,Neurological or EENT,Diplopia
+visual aura,Neurological or EENT,Migraine
+frequent blinking,Neurological or EENT,Tic/Blink
+difficulty swallowing,Neurological or EENT,Dysphagia
+visual disturbances,Neurological or EENT,Vision
+lump in throat,Neurological or ENT,Globus
+lump in throat,Neurological or ENT,Globus
+globus sensation,Neurological or ENT,Sensation
+globus,Neurological or ENT,Throat Sensation
+swallowing difficulty,Neurological or GI,Dysphagia
+swallowing pills,Neurological or GI,Dysphagia
+swallowing problems,Neurological or GI,Dysphagia
+dysphagia,Neurological or GI,Difficulty Swallowing
+problems swallowing pills,Neurological or GI,Dysphagia
+problems swallowing pills,Neurological or GI,Dysphagia
+yawning excessively,Neurological or General,Fatigue
+stuttering,Neurological or Mental Health,Speech
+phonophobia,Neurological or Mental Health,Sound Sensitivity
+difficulty concentrating,Neurological or Mental Health,Attention
+phonophobia,Neurological or Mental Health,Sound Sensitivity
+arm weakness,Neurological or Musculoskeletal,Extremity Weakness
+low muscle tone,Neurological or Musculoskeletal,Hypotonia
+sciatica,Neurological or Musculoskeletal,Nerve Pain
+trouble walking,Neurological or Musculoskeletal,Gait
+atrophy,Neurological or Musculoskeletal,Wasting
+lockjaw,Neurological or Musculoskeletal,Trismus
+hypotonia,Neurological or Musculoskeletal,Low Muscle Tone
+low muscle tone,Neurological or Musculoskeletal,Hypotonia
+weak grip,Neurological or Musculoskeletal,Weakness
+lockjaw,Neurological or Musculoskeletal,Trismus
+tripping while walking,Neurological or Musculoskeletal,Coordination
+trismus,Neurological or Musculoskeletal,Lockjaw
+unintentional drooling,Neurological or Pediatric,Sialorrhea
+excessive drooling,Neurological or Pediatric,Hypersalivation
+insensitivity,Neurological or Psychological,Reduced Sensation
+burning feet,Neurological or Vascular,Burning Sensation
+thoracic outlet syndrome,Neurological or Vascular,Shoulder/Arm
+burning feet,Neurological or Vascular,Burning Sensation
+chronic pain,Pain-Related,Chronic
+growing pains,Pediatric,Musculoskeletal
+limping in children,Pediatric,Musculoskeletal
+enuresis,Pediatric,Incontinence
+febrile seizures,Pediatric,Neurological
+limping in children,Pediatric,Musculoskeletal
+colic,Pediatric,Infant GI Distress
+cradle cap,Pediatric,Skin-Related
+bedwetting,Pediatric,Enuresis
+inability to concentrate urine,Renal,Concentration Defect
+blood in semen,Reproductive,Hematospermia
+foreskin problems,Reproductive,Penile
+galactorrhea,Reproductive,Breast Discharge
+priapism,Reproductive,Painful Erection
+late periods,Reproductive,Menstrual Delay
+lactation unrelated to childbirth,Reproductive,Galactorrhea
+breast pain,Reproductive,Breast Symptom
+prostate problems,Reproductive,Genitourinary
+tight foreskin,Reproductive,Phimosis
+genital problems,Reproductive,
+phimosis,Reproductive,Foreskin
+impotence,Reproductive,Erectile Dysfunction
+postmenopausal bleeding,Reproductive,Bleeding
+breast swelling,Reproductive,Breast Symptom
+breast tenderness,Reproductive,Breast Symptom
+testis,Reproductive,Organ
+testicular pain,Reproductive,Pain
+low sperm count,Reproductive,Infertility
+testicular lumps,Reproductive,Testicular
+testicle pain,Reproductive,Testicular
+irregular periods,Reproductive,Menstrual
+irregular menstrual cycle,Reproductive,Menstrual
+gynaecomastia,Reproductive,Male Breast Tissue
+gynecomastia,Reproductive,Male Breast Tissue
+heavy periods,Reproductive,Menstrual
+infertility,Reproductive,Subfertility
+pms,Reproductive,Premenstrual
+phimosis,Reproductive,Foreskin
+erectile dysfunction,Reproductive,Sexual Function
+lactation unrelated to childbirth,Reproductive,Galactorrhea
+dry orgasm,Reproductive,Sexual Function
+prostate problems,Reproductive,Genitourinary
+uterine bleeding,Reproductive,Bleeding
+uterine cramps,Reproductive,Pain
+vaginal bleeding,Reproductive,Bleeding
+vaginal bleeding after sex,Reproductive,Bleeding
+vaginal bleeding between periods,Reproductive,Bleeding
+vaginal discharge,Reproductive,Discharge
+bleeding after the menopause,Reproductive,Bleeding
+vaginal dryness,Reproductive,Hormonal
+vaginal itching,Reproductive,Itching
+vaginal odor,Reproductive,Odor
+vaginal pain,Reproductive,Pain
+vaginal spotting,Reproductive,Bleeding
+vaginismus,Reproductive,Pelvic Floor
+vaginitis,Reproductive,Inflammation
+vulval pain,Reproductive,Pain
+vulvodynia,Reproductive,Pain
+pms,Reproductive,Premenstrual
+bleeding after vaginal sex,Reproductive,Bleeding
+low sperm count,Reproductive,Infertility
+premenstrual syndrome,Reproductive,PMS
+premature ejaculation,Reproductive,Sexual
+enlarged male breast tissue,Reproductive,Gynecomastia
+late periods,Reproductive,Menstrual Delay
+priapism,Reproductive,Painful Erection
+ejaculation problem,Reproductive,Sexual Function
+premature ejaculation,Reproductive,Sexual
+early menopause,Reproductive,Hormonal
+dyspareunia,Reproductive,Painful Intercourse
+premenstrual syndrome,Reproductive,PMS
+bleeding between periods,Reproductive,Bleeding
+bleeding during pregnancy,Reproductive,Bleeding
+postmenopausal bleeding,Reproductive,Bleeding
+dysmenorrhea,Reproductive,Painful Periods
+male menopause,Reproductive or Endocrine,Andropause
+hot flashes,Reproductive or Endocrine,Menopausal
+male menopause,Reproductive or Endocrine,Andropause
+prolapse,Reproductive or GI,Organ Descent
+prolapse,Reproductive or GI,Organ Descent
+hemoptysis,Respiratory,Coughing Blood
+chronic cough,Respiratory,Cough
+difficulty breathing,Respiratory,Shortness of Breath
+chest tightness,Respiratory,Chest Symptom
+cough,Respiratory,Cough
+wheezing,Respiratory,Airway
+worsens with breathing,Respiratory,Pleuritic
+coughing up blood,Respiratory,Hemoptysis
+air hunger,Respiratory,Shortness of Breath
+brethlessness (breathlessness),Respiratory,Shortness of Breath
+cessation of breathing,Respiratory,Apnea
+shallow breathing,Respiratory,Hypoventilation
+dry cough,Respiratory,Cough
+tachypnea,Respiratory,Rapid Breathing
+irregular breathing,Respiratory,Breathing Pattern
+shortness of breath,Respiratory,Dyspnea
+difficulty breathing when lying flat,Respiratory,Orthopnea
+chest tightness,Respiratory,Chest Symptom
+dyspnea,Respiratory,Shortness of Breath
+chronic cough,Respiratory,Cough
+cessation of breathing,Respiratory,Apnea
+hyperventilation,Respiratory,Overbreathing
+low blood oxygen,Respiratory,Hypoxemia
+blood in phlegm,Respiratory,Hemoptysis
+pleuritic chest pain,Respiratory,Pain
+blood in sputum,Respiratory,Hemoptysis
+pleuritic chest pain,Respiratory,Pain
+apnea,Respiratory,Breathing Cessation
+low blood oxygen,Respiratory,Hypoxemia
+lack of oxygen,Respiratory or Cardiovascular,Hypoxia
+lack of oxygen,Respiratory or Cardiovascular,Hypoxia
+catarrh,Respiratory or EENT,Mucus Symptom
+catarrh,Respiratory or EENT,Mucus Symptom
+pityriasis versicolor,Skin-Related,Fungal
+pressure sores,Skin-Related,Ulcer
+athlete foot,Skin-Related,Fungal Infection
+pressure ulcers,Skin-Related,Ulcer
+malar rash,Skin-Related,Facial Rash
+stretch marks,Skin-Related,Striae
+bullous pemphigoid,Skin-Related,Autoimmune Blistering
+birthmarks,Skin-Related,Pigmentation
+butterfly rash,Skin-Related,Facial Rash (e.g. lupus)
+cellulitis,Skin-Related,Bacterial Infection
+bullous pemphigoid,Skin-Related,Autoimmune Blistering
+varicose eczema,Skin-Related,Eczema
+skin tags,Skin-Related,Outgrowth
+skin thickening,Skin-Related,Hyperkeratosis
+ichthyosis,Skin-Related,Scaling
+lichen planus,Skin-Related,Autoimmune
+piloerection,Skin-Related,Goosebumps
+dermal rash,Skin-Related,Rash
+acanthosis nigricans,Skin-Related,Pigmentation
+fungal nail infection,Skin-Related,Nail
+verrucas,Skin-Related,Warts (Viral)
+petechiae,Skin-Related,Hemorrhagic Spot
+butterfly rash,Skin-Related,Facial Rash (e.g. lupus)
+under eye circles,Skin-Related,Periorbital
+petechiae,Skin-Related,Hemorrhagic Spot
+hyperpigmentation,Skin-Related,Pigment
+hidradenitis suppurativa,Skin-Related,Chronic Inflammatory
+pityriasis rosea,Skin-Related,Rash
+sunburn,Skin-Related,Burn
+polymorphic light eruption,Skin-Related,Photosensitivity
+blisters,Skin-Related,Lesions
+goosebumps,Skin-Related,Piloerection
+keratosis pilaris,Skin-Related,Follicular
+granuloma annulare,Skin-Related,Granulomatous
+lichen sclerosus,Skin-Related,Autoimmune
+grey skin,Skin-Related,Discoloration
+keloid scar,Skin-Related,Scar
+chilblains,Skin-Related,Cold Injury
+pigmentation changes,Skin-Related,Color Alteration
+dyshidrotic eczema,Skin-Related,Eczema
+piloerection,Skin-Related,Goosebumps
+hair dryness,Skin-Related,Hair
+hair dye reactions,Skin-Related,Allergic
+alopecia,Skin-Related,Hair Loss
+alopecia areata,Skin-Related,Hair Loss (Autoimmune)
+hair loss,Skin-Related,Alopecia
+hair thinning,Skin-Related,Alopecia
+chilblains,Skin-Related,Cold Injury
+actinic keratoses,Skin-Related,Precancerous Lesion
+dry lips,Skin-Related,Lip Dryness
+loss of hair in patches,Skin-Related,Alopecia Areata
+discoid eczema,Skin-Related,Eczema
+pompholyx,Skin-Related,Eczema
+cellulitis,Skin-Related,Bacterial Infection
+heat rash,Skin-Related,Rash
+pityriasis rosea,Skin-Related,Rash
+pityriasis versicolor,Skin-Related,Fungal
+sweat rash,Skin-Related,Intertrigo
+boils,Skin-Related,Infection
+skin swelling,Skin-Related,Edema
+acne,Skin-Related,Inflammatory Lesions
+skin sores,Skin-Related,Lesions
+pressure sores,Skin-Related,Ulcer
+skin reaction to sunlight,Skin-Related,Photosensitivity
+prickly heat,Skin-Related,Heat Rash
+breast rash,Skin-Related,Localized Rash
+warts,Skin-Related,Viral Lesion
+pompholyx,Skin-Related,Eczema
+brittle nails,Skin-Related,Nail Changes
+itching,Skin-Related,Pruritus
+itchy,Skin-Related,Pruritus
+scalp flaking,Skin-Related,Scalp
+scalp itching,Skin-Related,Pruritus
+pigmentation changes,Skin-Related,Color Alteration
+scalp tenderness,Skin-Related,Scalp Pain
+itchy skin,Skin-Related,Pruritus
+cold sore,Skin-Related,Infectious (Herpes)
+corns and calluses,Skin-Related,Hyperkeratosis
+facial flushing,Skin-Related,Redness
+skin redness,Skin-Related,Erythema
+falling hair,Skin-Related,Hair Loss
+atopic eczema,Skin-Related,Eczema
+loss of hair in patches,Skin-Related,Alopecia Areata
+pressure ulcers,Skin-Related,Ulcer
+scars,Skin-Related,Scar Tissue
+keratosis pilaris,Skin-Related,Follicular
+keloid scar,Skin-Related,Scar
+lichen sclerosus,Skin-Related,Autoimmune
+skin rash,Skin-Related,Rash
+skin dryness,Skin-Related,Xerosis
+skin cyst,Skin-Related,Lesion
+impetigo,Skin-Related,Infectious
+skin abscess,Skin-Related,Bacterial Infection
+prickly heat,Skin-Related,Heat Rash
+dark circles under eyes,Skin-Related,Periorbital
+dandruff,Skin-Related,Scalp Flaking
+polymorphic light eruption,Skin-Related,Photosensitivity
+erythema,Skin-Related,Redness
+erythema multiforme,Skin-Related,Inflammatory
+vitiligo,Skin-Related,Pigment Loss
+malar rash,Skin-Related,Facial Rash
+ingrown hairs,Skin-Related,Hair Issue
+erythema nodosum,Skin-Related,Inflammatory
+clammy skin,Skin-Related,Moisture Abnormality
+lichen planus,Skin-Related,Autoimmune
+contact dermatitis,Skin-Related,Allergic/Inflammatory
+leukoplakia,Skin-Related or Dental & Oral,Precancerous
+leukoplakia,Skin-Related or Dental & Oral,Precancerous
+photosensitivity,Skin-Related or EENT,Light Sensitivity
+photosensitivity,Skin-Related or EENT,Light Sensitivity
+tongue burning,Skin-Related or EENT,Oral Sensation
+ulcers,Skin-Related or GI,Lesion
+lumps under skin,Skin-Related or Musculoskeletal,Subcutaneous
+lumps under skin,Skin-Related or Musculoskeletal,Subcutaneous
+leg ulcer,Skin-Related or Vascular,Ulcer
+venous leg ulcer,Skin-Related or Vascular,Ulcer
+leg ulcer,Skin-Related or Vascular,Ulcer
+infected piercings,Skin-Related or Wound,Infection
+sleep attacks,Sleep-Relat,
+sleep apnoea,Sleep-Related,Respiratory
+excessive daytime sleepiness,Sleep-Related,Hypersomnia
+jet lag,Sleep-Related,Circadian
+insomnia,Sleep-Related,Difficulty Sleeping
+jet lag,Sleep-Related,Circadian
+difficulty falling asleep,Sleep-Related,Insomnia
+daytime sleepiness,Sleep-Related,Hypersomnia
+sudden urge to sleep,Sleep-Related,Narcolepsy
+excessive sleepiness,Sleep-Related,Hypersomnia
+hypersomnia,Sleep-Related,Excessive Sleep
+cannabis oil,Substance,Alternative/Complementary
+cannabis,Substance,Drug
+cannabis oil,Substance,Alternative/Complementary
+cannabis,Substance,Drug
+cervical screening,Therapy or Procedure,Diagnostic
+electrocardiogram,Therapy or Procedure,Diagnostic
+probiotics,Therapy or Procedure,Nutritional
+emollients,Therapy or Procedure,Topical Treatment
+umbilical hernia repair,Therapy or Procedure,Surgical
+echocardiogram,Therapy or Procedure,Diagnostic
+emergency contraceptive pill,Therapy or Procedure,Medication
+electroencephalogram,Therapy or Procedure,Diagnostic
+acupuncture,Therapy or Procedure,Alternative/Physical
+laxatives,Therapy or Procedure,Medication
+electrolyte test,Therapy or Procedure,Diagnostic
+enhanced recovery,Therapy or Procedure,Post-Op Protocol
+chemotherapy,Therapy or Procedure,Cancer Treatment
+endoscopy,Therapy or Procedure,Diagnostic
+lens surgery,Therapy or Procedure,EENT
+laser eye surgery,Therapy or Procedure,EENT
+plastic surgery,Therapy or Procedure,Cosmetic/Reconstructive
+chiropractic,Therapy or Procedure,Alternative
+corticosteroids,Therapy or Procedure,Medication
+corticosteroid cream,Therapy or Procedure,Medication
+cognitive behavioural therapy,Therapy or Procedure,Mental Health Treatment
+coronary artery bypass graft,Therapy or Procedure,Cardiovascular Surgery
+coronary angioplasty,Therapy or Procedure,Interventional Cardiology
+coronary angiography,Therapy or Procedure,Cardiovascular Diagnostic
+photodynamic therapy,Therapy or Procedure,Treatment
+cornea transplant,Therapy or Procedure,EENT Surgical
+copper coil,Therapy or Procedure,Contraception
+contraceptive patch,Therapy or Procedure,Family Planning
+wisdom tooth removal,Therapy or Procedure,Dental
+contraceptive injection,Therapy or Procedure,Family Planning
+contraceptive implant,Therapy or Procedure,Family Planning
+contraception,Therapy or Procedure,Family Planning
+beta blockers,Therapy or Procedure,Medication
+pet scan,Therapy or Procedure,Diagnostic
+colonoscopy,Therapy or Procedure,Diagnostic
+colostomy,Therapy or Procedure,GI Surgical
+combined pill,Therapy or Procedure,Contraception
+mastectomy,Therapy or Procedure,Cancer Surgery
+cosmetic procedures,Therapy or Procedure,Plastic Surgery
+physiotherapy,Therapy or Procedure,Rehabilitation
+mammogram,Therapy or Procedure,Diagnostic
+local anaesthesia,Therapy or Procedure,Anesthesia
+lumbar decompression surgery,Therapy or Procedure,Orthopedic/Neurosurgery
+lumbar puncture,Therapy or Procedure,Diagnostic
+diaphragm,Therapy or Procedure,Contraception
+lung health checks,Therapy or Procedure,Screening
+dialysis,Therapy or Procedure,Renal Replacement
+barium enema,Therapy or Procedure,Diagnostic
+pneumococcal vaccine,Therapy or Procedure,Vaccination
+vaginal ring,Therapy or Procedure,Contraception
+urinary catheter,Therapy or Procedure,Urological
+male sterilisation,Therapy or Procedure,Contraception
+diabetic eye screening,Therapy or Procedure,Diagnostic
+pip breast implants,Therapy or Procedure,Implants
+vasectomy,Therapy or Procedure,Contraception
+dexa scan,Therapy or Procedure,Diagnostic
+decongestants,Therapy or Procedure,Medication
+cystoscopy,Therapy or Procedure,Diagnostic
+circumcision,Therapy or Procedure,Surgical
+clinical trials,Therapy or Procedure,Research
+biopsy,Therapy or Procedure,Diagnostic
+chorionic villus sampling,Therapy or Procedure,Diagnostic
+epidural,Therapy or Procedure,Anesthesia
+chiropractic,Therapy or Procedure,Alternative
+progestogen only pill,Therapy or Procedure,Contraception
+intrauterine insemination,Therapy or Procedure,Fertility
+intrauterine device,Therapy or Procedure,Contraception
+intensive care,Therapy or Procedure,Hospital
+lung health checks,Therapy or Procedure,Screening
+inguinal hernia repair,Therapy or Procedure,Surgical
+angioplasty,Therapy or Procedure,Interventional
+angiography,Therapy or Procedure,Diagnostic
+arthroscopy,Therapy or Procedure,Diagnostic or Surgical
+male sterilisation,Therapy or Procedure,Contraception
+ileostomy,Therapy or Procedure,GI Surgical
+steroid cream,Therapy or Procedure,Medication
+steroid inhalers,Therapy or Procedure,Medication
+steroid injections,Therapy or Procedure,Medication
+hysteroscopy,Therapy or Procedure,Diagnostic
+steroid nasal sprays,Therapy or Procedure,Medication
+steroid tablets,Therapy or Procedure,Medication
+steroids,Therapy or Procedure,Medication
+hysterectomy,Therapy or Procedure,Surgical
+mammogram,Therapy or Procedure,Diagnostic
+bronchodilators,Therapy or Procedure,Medication
+hypnotherapy,Therapy or Procedure,Alternative Mental Health
+pneumococcal vaccine,Therapy or Procedure,Vaccination
+hpv vaccine,Therapy or Procedure,Vaccination
+intrauterine system,Therapy or Procedure,Contraception
+ipv vaccine,Therapy or Procedure,Vaccination
+lumbar puncture,Therapy or Procedure,Diagnostic
+lumbar decompression surgery,Therapy or Procedure,Orthopedic/Neurosurgery
+laxatives,Therapy or Procedure,Medication
+aortic valve replacement,Therapy or Procedure,Cardiovascular Surgery
+probiotics,Therapy or Procedure,Nutritional
+lens surgery,Therapy or Procedure,EENT
+laser eye surgery,Therapy or Procedure,EENT
+progestogen only pill,Therapy or Procedure,Contraception
+laparoscopy,Therapy or Procedure,Minimally Invasive
+antihistamines,Therapy or Procedure,Medication
+knee replacement,Therapy or Procedure,Orthopedic
+knee ligament surgery,Therapy or Procedure,Orthopedic
+antifungal,Therapy or Procedure,Medication
+laparoscopy,Therapy or Procedure,Minimally Invasive
+antidepressants,Therapy or Procedure,Medication
+braces,Therapy or Procedure,Orthodontic
+antibiotics,Therapy or Procedure,Medication
+breast reduction on the nhs,Therapy or Procedure,Surgical
+breast screening,Therapy or Procedure,Diagnostic
+antacids,Therapy or Procedure,Medication
+local anaesthesia,Therapy or Procedure,Anesthesia
+keyhole surgery,Therapy or Procedure,Minimally Invasive
+ivf,Therapy or Procedure,Fertility
+ius,Therapy or Procedure,Contraception
+iui,Therapy or Procedure,Fertility
+iud,Therapy or Procedure,Contraception
+anticoagulant,Therapy or Procedure,Medication
+stool sample,Therapy or Procedure,Diagnostic
+hormonal coil,Therapy or Procedure,Contraception
+homeopathy,Therapy or Procedure,Alternative
+blood tests,Therapy or Procedure,Diagnostic
+chorionic villus sampling,Therapy or Procedure,Diagnostic
+blood pressure test,Therapy or Procedure,Diagnostic
+knee ligament surgery,Therapy or Procedure,Orthopedic
+genetic and genomic testing,Therapy or Procedure,Diagnostic
+general anaesthetic,Therapy or Procedure,Anesthesia
+gastroscopy,Therapy or Procedure,Diagnostic
+gastrectomy,Therapy or Procedure,Surgical
+gallbladder removal,Therapy or Procedure,Surgical
+pet scan,Therapy or Procedure,Diagnostic
+caesarean section,Therapy or Procedure,Obstetric Surgery
+knee replacement,Therapy or Procedure,Orthopedic
+cardiac catheterisation,Therapy or Procedure,Cardiovascular Diagnostic
+first aid,Therapy or Procedure,Emergency
+carotid endarterectomy,Therapy or Procedure,Cardiovascular Surgical
+femoral hernia repair,Therapy or Procedure,Surgical
+female sterilisation,Therapy or Procedure,Contraception
+topical corticosteroids,Therapy or Procedure,Medication
+cataract surgery,Therapy or Procedure,EENT Surgical
+tracheostomy,Therapy or Procedure,Airway
+transurethral resection of the prostate,Therapy or Procedure,Urological
+travel vaccinations,Therapy or Procedure,Prevention
+adenoidectomy,Therapy or Procedure,Surgical
+stop smoking treatments,Therapy or Procedure,Medication or Counseling
+alexander technique,Therapy or Procedure,Alternative/Physical
+keyhole surgery,Therapy or Procedure,Minimally Invasive
+physiotherapy,Therapy or Procedure,Rehabilitation
+home oxygen therapy,Therapy or Procedure,Respiratory Support
+amputation,Therapy or Procedure,Surgical
+caesarean section,Therapy or Procedure,Obstetric Surgery
+bone density scan,Therapy or Procedure,Diagnostic
+hip replacement,Therapy or Procedure,Orthopedic
+amniocentesis,Therapy or Procedure,Diagnostic
+cardiac catheterisation,Therapy or Procedure,Cardiovascular Diagnostic
+herbal medicines,Therapy or Procedure,Alternative
+carotid endarterectomy,Therapy or Procedure,Cardiovascular Surgical
+cataract surgery,Therapy or Procedure,EENT Surgical
+photodynamic therapy,Therapy or Procedure,Treatment
+mastectomy,Therapy or Procedure,Cancer Surgery
+plastic surgery,Therapy or Procedure,Cosmetic/Reconstructive
+cervical screening,Therapy or Procedure,Diagnostic
+heart bypass,Therapy or Procedure,Cardiovascular Surgery
+pip breast implants,Therapy or Procedure,Implants
+hearing tests,Therapy or Procedure,Diagnostic
+hearing aids,Therapy or Procedure,Assistive Device
+hand tendon repair,Therapy or Procedure,Surgical
+chemotherapy,Therapy or Procedure,Cancer Treatment
+teeth whitening,Therapy or Procedure,Dental
+blood transfusion,Therapy or Procedure,Transfusion
+heart valve replacement,Therapy or Procedure,Cardiovascular Surgery
+colposcopy,Therapy or Procedure,Diagnostic
+superficial thrombophlebitis,Vascular,Vein Inflammation
+cold hands,Vascular,Cold Extremities
+phlebitis,Vascular,Vein Inflammation
+phlebitis,Vascular,Vein Inflammation
+hetrosexual (likely “heterosexual” - not a symptom),,
+surgeryswallowing problems (typo?),,

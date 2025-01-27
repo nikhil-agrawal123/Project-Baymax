@@ -1,0 +1,13 @@
+pyttsx3
+pyaudio
+gtts
+spacy
+pandas
+translate
+speech_recognition
+re
+pickle
+numpy
+tenserflow
+keras
+nltk

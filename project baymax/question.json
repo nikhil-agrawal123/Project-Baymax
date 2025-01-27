@@ -1,0 +1,542 @@
+{"questions" : {
+    "Allergy & Hypersensitivity" : [
+        "Do you have any known allergies to food, medication, or environmental factors?",
+        "Have you experienced itching, hives, or swelling after exposure to an allergen?",
+        "Do you experience difficulty breathing or chest tightness during an allergic reaction?",
+        "Do you carry an epinephrine auto-injector?",
+        "Have your allergy symptoms worsened over time?",
+        "Do you have a family history of allergies?",
+        "How soon after exposure do your symptoms appear?"
+    ],
+    "Cardiovascular" : [
+        "Do you experience chest pain or tightness during physical activity?",
+        "Have you noticed swelling in your legs, ankles, or feet?",
+        "Do you often feel short of breath, even at rest?",
+        "Have you experienced irregular or rapid heartbeats?",
+        "Do you have a history of high blood pressure or heart disease?",
+        "Do you experience dizziness or fainting episodes?",
+        "Have you been diagnosed with any cardiovascular condition?"
+    ],
+    "Cardiovascular or Musculoskeletal" : [
+        "Do you experience chest or joint pain during physical exertion?",
+        "Do you feel numbness or tingling in your limbs?",
+        "Have you noticed muscle weakness along with heart palpitations?",
+        "Do you experience leg cramps or swelling?",
+        "Have you been diagnosed with heart disease or arthritis?",
+        "Does exercise make your symptoms better or worse?",
+        "Do you feel fatigue after mild physical activity?"
+    ],
+    "Cardiovascular or Respiratory" : [
+        "Do you experience shortness of breath with physical activity?",
+        "Have you had persistent coughing along with chest tightness?",
+        "Do you experience wheezing or difficulty breathing at night?",
+        "Have you been diagnosed with asthma or heart disease?",
+        "Do you have a history of high blood pressure or lung conditions?",
+        "Do you feel chest pain when breathing deeply?",
+        "Have you noticed swelling in your lower extremities?"
+    ],
+    "Mental Health" : [
+        "Have you been feeling unusually anxious, sad, or irritable lately?",
+        "Do you have trouble sleeping or changes in your appetite?",
+        "Have you experienced any loss of interest in activities you usually enjoy?",
+        "Have you had any thoughts of self-harm or difficulty managing stress?",
+        "Are there any specific events or situations that you feel might be triggering these emotions?",
+        "Do you feel overwhelmed by daily responsibilities?",
+        "Have you sought professional help for your mental health concerns?"
+    ],
+    "Immune-Related or Vascular" : [
+        "Have you experienced unexplained swelling or inflammation?",
+        "Do you have frequent infections or slow wound healing?",
+        "Have you noticed any skin discoloration or unusual rashes?",
+        "Do you experience numbness or tingling in your extremities?",
+        "Have you been diagnosed with any autoimmune or vascular conditions?",
+        "Do you experience shortness of breath or chest discomfort?",
+        "Have you noticed any changes in your blood pressure or circulation?"
+    ],
+
+    "Injury or Wound" : [
+        "How did the injury or wound occur?",
+        "Have you noticed any signs of infection, such as redness or pus?",
+        "Is there any swelling, bruising, or limited mobility in the affected area?",
+        "Have you received any treatment or first aid for the injury?",
+        "Does the pain or discomfort worsen with certain movements or activities?",
+        "Have you experienced similar injuries in the past?",
+        "Are you experiencing any numbness or tingling around the wound area?"
+    ],
+    "Lab/Diagnostic Finding" : [
+        "Have you recently undergone any medical tests or screenings?",
+        "Did your doctor discuss any abnormal test results with you?",
+        "Are you currently monitoring any specific health markers, such as blood sugar or cholesterol?",
+        "Have you been advised to undergo further testing based on your recent results?",
+        "Do you experience any symptoms that align with your recent lab findings?",
+        "Have you received any new diagnoses based on lab tests?",
+        "Are you following any treatment plans related to your test results?"
+    ],
+    "Condition or Disease" : [
+        "When were you first diagnosed with your condition?",
+        "Are you currently taking any medications for this condition?",
+        "Have your symptoms changed over time?",
+        "Do you experience flare-ups or remissions?",
+        "Has your doctor recommended lifestyle changes?",
+        "Have you undergone any procedures related to your condition?",
+        "Are you experiencing any new symptoms?"
+    ],
+    "Dental_Oral" : [
+        "Do you experience pain or sensitivity in your teeth or gums?",
+        "Have you noticed bleeding while brushing?",
+        "Are there any visible changes in your teeth?",
+        "Do you experience bad breath despite oral hygiene?",
+        "Have you had recent dental treatments?",
+        "Do you grind your teeth at night?",
+        "Do you experience jaw pain or difficulty chewing?"
+    ],
+    "General_Constitutional" : [
+        "Have you been experiencing unexplained fatigue or weakness?",
+        "Have you noticed any unintentional weight loss or gain?",
+        "Are you experiencing persistent fever or night sweats?",
+        "Do you have a general feeling of malaise or discomfort?",
+        "Have you been experiencing chills or body aches?",
+        "Do you feel lightheaded or dizzy often?",
+        "Have you noticed any changes in your energy levels recently?"
+    ],
+    "Genitourinary" : [
+        "Do you experience frequent or painful urination?",
+        "Have you noticed any blood in your urine or unusual discoloration?",
+        "Are you experiencing lower abdominal or back pain near the kidneys?",
+        "Do you have difficulty controlling your bladder or passing urine?",
+        "Have you noticed any unusual discharge or genital discomfort?",
+        "Do you have a history of urinary tract infections?",
+        "Have you experienced any recent changes in urinary habits?"
+    ],
+    "Hematological" : [
+        "Have you noticed unexplained bruising or bleeding?",
+        "Do you experience frequent nosebleeds or gum bleeding?",
+        "Have you felt unusually fatigued or weak recently?",
+        "Do you have a history of anemia or other blood disorders?",
+        "Have you noticed any changes in the color of your skin or eyes (e.g., pallor, jaundice)?",
+        "Do you experience frequent infections or slow wound healing?",
+        "Have you experienced any swelling in your lymph nodes?"
+    ],
+    "Hepatic or Hemolysis" : [
+        "Have you noticed yellowing of your skin or eyes (jaundice)?",
+        "Do you experience unexplained fatigue or weakness?",
+        "Have you noticed dark-colored urine or pale stools?",
+        "Do you have any history of liver disease or conditions?",
+        "Do you experience pain or discomfort in the upper right side of your abdomen?",
+        "Have you been exposed to any known liver toxins (e.g., alcohol, medications)?",
+        "Have you experienced unexplained weight loss or appetite changes?"
+    ],
+    "Immune-Related" : [
+        "Do you experience frequent infections or illnesses?",
+        "Have you been diagnosed with any autoimmune disorders?",
+        "Do you have unexplained joint or muscle pain?",
+        "Have you noticed persistent fatigue or weakness?",
+        "Do you experience unusual skin rashes or reactions?",
+        "Have you noticed swollen lymph nodes or prolonged fever?",
+        "Have you had any recent vaccinations or immune treatments?"
+    ],
+    "Dental & Oral" : [
+        "Do you experience pain or sensitivity in your teeth or gums?",
+        "Have you noticed bleeding while brushing?",
+        "Are there any visible changes in your teeth?",
+        "Do you experience bad breath despite oral hygiene?",
+        "Have you had recent dental treatments?",
+        "Do you grind your teeth at night?",
+        "Do you experience jaw pain or difficulty chewing?"
+    ],
+    "ENT" : [
+        "Have you noticed any changes in your vision?",
+        "Do you experience frequent headaches or dizziness?",
+        "Have you had ringing in your ears?",
+        "Do you experience nasal congestion or post-nasal drip?",
+        "Do you feel throat irritation or hoarseness?",
+        "Have you had any recent infections in your ears, nose, or throat?",
+        "Do you experience sinus pressure or pain?"
+    ],
+    "ENT or Neurological" : [
+        "Have you experienced any vision or hearing loss with dizziness?",
+        "Do you have difficulty balancing or coordinating movements?",
+        "Have you noticed any ringing in the ears or blurred vision?",
+        "Are there episodes of disorientation or altered consciousness?",
+        "Do you feel any pressure or pain in your head, neck, or sinuses?",
+        "Have you had recent headaches accompanied by sensory issues?",
+        "Do you experience numbness or tingling along with ENT issues?"
+    ],
+    "ENT" : [
+        "Do you experience frequent ear infections or pain?",
+        "Have you had difficulty hearing or sudden hearing loss?",
+        "Do you suffer from chronic nasal congestion or sinus issues?",
+        "Have you noticed any throat pain or hoarseness lasting more than two weeks?",
+        "Do you experience dizziness or balance problems?",
+        "Have you had any unexplained nosebleeds recently?",
+        "Do you have trouble swallowing or a persistent lump in your throat?"
+    ],
+    "Gastrointestinal" : [
+        "Do you experience abdominal pain or discomfort after meals?",
+        "Have you noticed any changes in your bowel movements or stool consistency?",
+        "Do you experience nausea, vomiting, or acid reflux regularly?",
+        "Have you had any recent loss of appetite or difficulty swallowing?",
+        "Have you noticed blood in your stool or black, tarry stools?",
+        "Do you experience bloating or excessive gas?",
+        "Have you been diagnosed with any digestive disorders?"
+    ],
+    "Gastrointestinal/Anorectal" : [
+        "Do you experience pain or discomfort in the rectal area?",
+        "Have you noticed any blood in your stool or while wiping?",
+        "Do you experience chronic constipation or diarrhea?",
+        "Have you felt a lump or swelling in the anal area?",
+        "Do you experience itching or irritation around the anus?",
+        "Have you had any recent changes in bowel habits?",
+        "Do you have a history of hemorrhoids or other anorectal conditions?"
+    ],
+    "Endocrine & Metabolic" : [
+        "Have you experienced sudden weight changes without changes in diet?",
+        "Do you feel excessively thirsty or hungry throughout the day?",
+        "Have you noticed unusual fatigue or changes in energy levels?",
+        "Do you experience sweating or intolerance to heat or cold?",
+        "Are there any known hormonal imbalances in your medical history?",
+        "Have you noticed any changes in your skin or hair texture?",
+        "Do you have a family history of endocrine disorders?"
+    ],
+    "Ethical/administrative" : [
+        "Are you aware of the healthcare policies relevant to your condition?",
+        "Do you have any concerns about the confidentiality of your medical records?",
+        "Have you faced any challenges accessing healthcare services?",
+        "Do you feel informed about your treatment options and rights?",
+        "Have you encountered any ethical dilemmas related to your care?",
+        "Are there any administrative hurdles affecting your treatment?",
+        "Do you require assistance with insurance or billing concerns?"
+    ],
+    "Mental Health or Endocrine" : [
+        "Have you been experiencing mood swings or emotional changes?",
+        "Do you feel excessively tired despite getting enough rest?",
+        "Have you noticed sudden changes in your weight?",
+        "Do you experience irregular menstrual cycles or hormonal imbalances?",
+        "Have you had trouble concentrating or remembering things?",
+        "Do you often feel excessively stressed or anxious without reason?",
+        "Have you been diagnosed with any endocrine or hormonal conditions?"
+    ],
+    "Mental Health or Neurological" : [
+        "Do you experience frequent headaches or dizziness?",
+        "Have you noticed changes in your memory or cognitive abilities?",
+        "Do you experience mood swings or emotional instability?",
+        "Have you had trouble concentrating or maintaining focus?",
+        "Do you experience unusual sensations such as tingling or numbness?",
+        "Have you noticed any changes in your coordination or motor skills?",
+        "Do you have a history of neurological conditions or mental health disorders?"
+    ],
+    "Musculoskeletal" : [
+        "Do you experience joint pain, stiffness, or swelling?",
+        "Have you had any recent injuries to your bones or muscles?",
+        "Do you feel pain or weakness during physical activities or rest?",
+        "Have you noticed any visible deformities or changes in posture?",
+        "Do you have a history of arthritis or bone-related conditions?",
+        "Have you experienced any difficulty with movement or flexibility?",
+        "Do you experience muscle cramps or spasms frequently?"
+    ],
+    "Musculoskeletal or Skin" : [
+        "Do you experience joint pain along with skin rashes or discoloration?",
+        "Have you noticed any swelling or redness in your joints or skin?",
+        "Do you have a history of skin conditions that affect your joints?",
+        "Have you experienced any unexplained bruising or lesions?",
+        "Do you feel stiffness in your joints accompanied by skin sensitivity?",
+        "Have you had any injuries that caused both muscle and skin damage?",
+        "Are you experiencing any persistent itching or burning sensations?"
+    ],
+    "Musculoskeletal or Vascular" : [
+        "Do you experience leg pain that worsens with walking or activity?",
+        "Have you noticed swelling in your legs or feet?",
+        "Do you experience numbness or tingling in your extremities?",
+        "Have you observed any discoloration in your skin, such as redness or paleness?",
+        "Do you have a history of blood clots or circulation issues?",
+        "Do you feel coldness or cramping in your limbs?",
+        "Have you been diagnosed with any musculoskeletal or vascular conditions?"
+    ],
+    "Neurological" : [
+        "Do you experience frequent headaches or migraines?",
+        "Have you noticed memory loss or confusion?",
+        "Do you experience muscle weakness or tremors?",
+        "Have you experienced numbness or tingling in your limbs?",
+        "Do you have trouble with balance or coordination?",
+        "Have you experienced sudden changes in vision or speech?",
+        "Do you feel lightheaded or faint frequently?"
+    ],
+    "Neurological or cardiovascular" : [
+        "Do you experience dizziness or fainting spells?",
+        "Have you had any episodes of chest pain accompanied by numbness?",
+        "Do you experience palpitations along with headaches or confusion?",
+        "Have you been diagnosed with any neurological or cardiovascular conditions?",
+        "Do you have difficulty with balance or coordination when experiencing heart symptoms?",
+        "Have you noticed any sudden weakness or tingling in combination with chest pain?",
+        "Do you experience shortness of breath along with cognitive difficulties?"
+    ],
+    "Neurological or Constitutional" : [
+        "Do you experience persistent fatigue or lack of energy?",
+        "Have you had unexplained weight loss or gain recently?",
+        "Do you experience frequent dizziness or episodes of fainting?",
+        "Have you noticed changes in your ability to concentrate or memory?",
+        "Do you have trouble with balance or coordination in daily activities?",
+        "Have you experienced unexplained pain or discomfort?",
+        "Do you feel unusually weak or lethargic?"
+    ],
+    "Neurological or Developmental" : [
+        "Have you noticed any delays in developmental milestones?",
+        "Do you experience difficulty with motor skills or coordination?",
+        "Have you had challenges with learning or memory retention?",
+        "Do you experience repetitive behaviors or difficulty adapting to change?",
+        "Have you noticed any speech or language development concerns?",
+        "Do you have difficulty maintaining focus or attention?",
+        "Have you been diagnosed with any developmental disorders?"
+    ],
+
+    "Neurological or ENT" : [
+        "Have you experienced any vision or hearing loss with dizziness?",
+        "Do you have difficulty balancing or coordinating movements?",
+        "Have you noticed any ringing in the ears or blurred vision?",
+        "Are there episodes of disorientation or altered consciousness?",
+        "Do you feel any pressure or pain in your head, neck, or sinuses?",
+        "Have you had recent headaches accompanied by sensory issues?",
+        "Do you experience numbness or tingling along with ENT issues?"
+    ],
+
+    "Neurological or GI" : [
+        "Have you experienced nausea or vomiting along with headaches?",
+        "Do you notice any digestive issues when feeling stressed or anxious?",
+        "Have you experienced unexplained weight loss or gain with neurological symptoms?",
+        "Do you have trouble swallowing or experience frequent heartburn?",
+        "Have you noticed any changes in bowel habits along with neurological issues?",
+        "Do you experience abdominal pain that coincides with headaches or dizziness?",
+        "Have you been diagnosed with any neurological or gastrointestinal conditions?"
+    ],
+
+    "Neurological or Mental Health" : [
+        "Do you experience frequent mood swings or emotional instability?",
+        "Have you noticed any changes in your memory or ability to focus?",
+        "Do you experience anxiety or depression alongside physical symptoms?",
+        "Have you had any episodes of confusion or disorientation?",
+        "Do you experience sleep disturbances along with neurological symptoms?",
+        "Have you noticed any changes in your speech or coordination?",
+        "Do you feel overwhelmed by routine tasks more than usual?"
+    ],
+
+    "Neurological or Musculoskeletal" : [
+        "Do you experience muscle weakness along with joint pain?",
+        "Have you noticed any numbness or tingling in your limbs?",
+        "Do you have difficulty with coordination or balance?",
+        "Have you experienced tremors or involuntary movements?",
+        "Do you feel stiffness in your joints or muscles?",
+        "Have you been diagnosed with any neurological or musculoskeletal conditions?",
+        "Do you experience pain that radiates from your spine to your limbs?"
+    ],
+
+    "Neurological or Pediatric" : [
+        "Has your child experienced developmental delays in motor skills?",
+        "Do they have difficulty with coordination or balance?",
+        "Have they experienced frequent headaches or seizures?",
+        "Do they show signs of muscle weakness or unusual fatigue?",
+        "Have there been any concerns about their speech or cognitive development?",
+        "Do they experience frequent dizziness or fainting spells?",
+        "Have they had any unusual movements or tremors?"
+    ],
+
+    "Neurological or Psychological" : [
+        "Have you experienced sudden mood changes or emotional instability?",
+        "Do you have trouble concentrating or remembering things?",
+        "Have you noticed an increase in anxiety or depressive symptoms?",
+        "Do you experience frequent headaches along with mental stress?",
+        "Have you had any episodes of confusion or disorientation?",
+        "Do you feel overly fatigued despite getting enough rest?",
+        "Have you experienced hallucinations or unusual sensory perceptions?"
+    ],
+
+    "Neurological or vascular" : [
+        "Have you experienced sudden numbness or weakness in any part of your body?",
+        "Do you have difficulty speaking or understanding speech?",
+        "Have you noticed vision changes or loss in one or both eyes?",
+        "Do you experience frequent dizziness or loss of balance?",
+        "Have you had severe headaches with no known cause?",
+        "Do you have a history of strokes or mini-strokes (TIAs)?",
+        "Have you been diagnosed with any vascular conditions affecting the brain?"
+    ],
+
+    "Pediatric" : [
+        "Has your child been meeting developmental milestones on time?",
+        "Have you noticed any changes in your child's appetite or sleep patterns?",
+        "Does your child experience frequent illnesses or infections?",
+        "Have there been any behavioral changes or difficulties in school?",
+        "Do you have any concerns about your child's growth or weight?",
+        "Has your child complained about any persistent pain or discomfort?",
+        "Do you have a family history of any genetic or chronic conditions?"
+    ],
+
+    "Reproductive" : [
+        "Do you experience irregular or missed menstrual cycles?",
+        "Have you noticed any unusual vaginal or penile discharge?",
+        "Are you experiencing pelvic or abdominal pain?",
+        "Have you had any issues with fertility or conception?",
+        "Are there any known conditions affecting your reproductive health?",
+        "Have you noticed any changes in libido or sexual function?",
+        "Do you have a history of reproductive health disorders in your family?"
+    ],
+
+    "Reproductive or Endocrine" : [
+        "Have you noticed changes in your menstrual cycle or hormonal balance?",
+        "Do you experience unexplained weight gain or loss?",
+        "Have you had any issues with fertility or conception?",
+        "Do you experience fatigue or changes in energy levels?",
+        "Have you been diagnosed with any hormonal disorders?",
+        "Do you have excessive hair growth or hair loss?",
+        "Have you noticed any changes in your skin, such as acne or dryness?"
+    ],
+
+    "Reproductive or GI" : [
+        "Do you experience abdominal pain associated with your menstrual cycle?",
+        "Have you noticed changes in bowel habits along with reproductive symptoms?",
+        "Do you experience bloating or discomfort related to your reproductive cycle?",
+        "Have you had issues with digestion or appetite changes?",
+        "Do you experience nausea or vomiting with pelvic pain?",
+        "Have you noticed any unexplained weight changes?",
+        "Have you been diagnosed with any reproductive or gastrointestinal conditions?"
+    ],
+
+    "Respiratory" : [
+        "Do you experience shortness of breath during physical activity or rest?",
+        "Have you had a persistent cough that doesn’t go away?",
+        "Do you experience chest tightness or pain when breathing deeply?",
+        "Have you noticed any wheezing or noisy breathing?",
+        "Do you experience frequent respiratory infections or colds?",
+        "Have you been diagnosed with asthma, COPD, or other lung conditions?",
+        "Do you experience difficulty breathing while lying down?"
+    ],
+
+    "Respiratory or Cardiovascular" : [
+        "Do you experience chest pain along with difficulty breathing?",
+        "Have you noticed swelling in your ankles or legs along with shortness of breath?",
+        "Do you feel lightheaded or dizzy when engaging in physical activity?",
+        "Have you experienced a racing heart or palpitations with breathing difficulties?",
+        "Do you experience persistent fatigue along with respiratory symptoms?",
+        "Have you been diagnosed with any heart or lung conditions?",
+        "Do you have episodes of waking up at night gasping for air?"
+    ],
+
+    "Respiratory or ENT" : [
+        "Do you experience nasal congestion along with breathing difficulties?",
+        "Have you noticed any changes in your voice or persistent hoarseness?",
+        "Do you have frequent throat infections or sinus issues?",
+        "Have you experienced ear pain or pressure along with respiratory symptoms?",
+        "Do you have difficulty swallowing or frequent throat clearing?",
+        "Have you noticed post-nasal drip affecting your breathing?",
+        "Do you experience frequent sneezing or allergy-like symptoms?"
+    ],
+
+    "Skin-Related" : [
+        "Have you noticed any rashes, redness, or itching on your skin?",
+        "Are there any unusual growths, moles, or discoloration?",
+        "Do you have open sores, wounds, or skin infections?",
+        "Have you experienced peeling, cracking, or dryness in specific areas?",
+        "Are there any allergic reactions or sensitivities affecting your skin?",
+        "Do you have a history of eczema, psoriasis, or other skin conditions?",
+        "Have you noticed any changes in your hair or nails along with skin issues?"
+    ],
+
+    "Skin-Related or Dental & Oral" : [
+        "Have you experienced any skin rashes along with oral discomfort?",
+        "Do you have any swelling or redness in your mouth and face?",
+        "Have you noticed dry or cracked skin around your lips and mouth?",
+        "Do you experience sensitivity or pain in your gums and skin?",
+        "Have you observed any unusual lesions or sores in your mouth or on your skin?",
+        "Do you experience frequent mouth ulcers along with skin conditions?",
+        "Have you been diagnosed with any skin or oral health conditions?"
+    ],
+
+    "Skin-Related or ENT" : [
+        "Do you experience skin rashes along with eye irritation?",
+        "Have you noticed any unusual dryness or peeling around your nose or ears?",
+        "Do you experience itching or redness around your eyes, ears, or throat?",
+        "Have you had any swelling or discomfort in your facial area?",
+        "Do you experience sinus congestion along with skin issues?",
+        "Have you observed any skin discoloration or changes around your mouth or nose?",
+        "Have you been diagnosed with any skin or ENT-related conditions?"
+    ],
+
+    "Skin-Related or GI" : [
+        "Have you experienced any skin rashes along with digestive issues?",
+        "Do you notice bloating or stomach pain with skin symptoms?",
+        "Have you observed any food intolerances that affect your skin?",
+        "Do you experience nausea or changes in bowel movements with skin conditions?",
+        "Have you had any unexplained weight changes along with skin problems?",
+        "Do you have a history of gastrointestinal disorders that impact your skin?",
+        "Have you been diagnosed with any conditions affecting both skin and digestion?"
+    ],
+
+    "Skin-Related or Musculoskeletal" : [
+        "Do you experience joint pain along with skin rashes or discoloration?",
+        "Have you noticed any swelling or redness in your joints and skin?",
+        "Do you experience stiffness in the joints accompanied by skin issues?",
+        "Have you observed any unexplained bruising or sensitivity on your skin and muscles?",
+        "Do you have a history of autoimmune conditions affecting your skin and musculoskeletal system?",
+        "Have you had any injuries that resulted in both skin and muscle discomfort?",
+        "Do you experience fatigue along with persistent skin or joint pain?"
+    ],
+
+    "Skin-Related or Vascular" : [
+        "Have you noticed any discoloration in your skin, such as redness or bluish tones?",
+        "Do you experience swelling in your legs or arms along with skin changes?",
+        "Have you experienced coldness or numbness in your extremities?",
+        "Do you have any visible veins or varicose veins appearing on your skin?",
+        "Have you noticed any skin ulcers or slow-healing wounds?",
+        "Do you experience pain or cramping in your legs when walking?",
+        "Have you been diagnosed with any vascular conditions affecting your skin?"
+    ],
+
+    "Skin-Related or Wound" : [
+        "Have you noticed any skin changes around your wound, such as redness or swelling?",
+        "Do you experience itching or irritation around the wound area?",
+        "Has the wound shown any signs of infection, such as pus or a foul odor?",
+        "Have you observed any slow healing or persistent pain in the wound?",
+        "Do you have any underlying skin conditions affecting the wound healing?",
+        "Have you noticed any changes in skin texture around the wound?",
+        "Are you experiencing any unusual sensations, such as numbness or tingling around the wound?"
+    ],
+
+    "Sleep-Related" : [
+        "Do you have difficulty falling asleep or staying asleep?",
+        "Do you feel excessively tired during the day despite getting enough sleep?",
+        "Have you been told that you snore or stop breathing while asleep?",
+        "Do you experience restless legs or unusual movements during sleep?",
+        "Do you have vivid dreams or nightmares that affect your sleep quality?",
+        "Do you wake up frequently throughout the night?",
+        "Have you noticed any changes in your sleep patterns recently?"
+    ],
+
+    "Substance" : [
+        "Do you currently use or have a history of using any substances such as alcohol or drugs?",
+        "Have you experienced any withdrawal symptoms when trying to stop using substances?",
+        "Do you feel that your substance use is affecting your daily life or responsibilities?",
+        "Have you been advised by a healthcare professional to reduce or stop substance use?",
+        "Do you experience cravings or urges to use substances?",
+        "Have you noticed any health issues related to your substance use?",
+        "Are you seeking help or support to manage your substance use?"
+    ],
+
+    "Therapy or Procedure" : [
+        "Have you recently undergone any medical therapies or procedures?",
+        "Are you experiencing any side effects or complications from a recent procedure?",
+        "Do you feel that the therapy or procedure has been effective?",
+        "Have you been following the prescribed aftercare instructions?",
+        "Do you have any concerns about upcoming medical treatments?",
+        "Have you noticed any changes in your condition since starting the therapy?",
+        "Are there any challenges you are facing in adhering to the treatment plan?"
+    ],
+
+    "Vascular" : [
+        "Have you experienced swelling in your legs, ankles, or feet?",
+        "Do you feel pain or cramping in your legs while walking or at rest?",
+        "Have you noticed any changes in the color or temperature of your extremities?",
+        "Do you have visible varicose veins or bulging veins?",
+        "Have you been diagnosed with any vascular conditions such as peripheral artery disease?",
+        "Do you experience numbness or tingling in your hands or feet?",
+        "Have you had any episodes of blood clots or vascular blockages?"
+    ]
+}
+}
