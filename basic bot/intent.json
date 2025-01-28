@@ -24,6 +24,9 @@
     {"tag": "blurred vision", "pattern": ["blurred vision", "hazy vision", "unclear sight", "fuzzy vision", "out of focus", "cloudy vision"], "response": ["blurred vision"]},
     {"tag": "sore throat", "pattern": ["sore throat", "throat pain", "scratchy throat", "throat discomfort", "raw throat", "swollen throat"], "response": ["sore throat"]},
     {"tag": "runny nose", "pattern": ["runny nose", "nasal discharge", "dripping nose", "clear mucus", "constant nose dripping", "postnasal drip"], "response": ["runny nose"]},
-    {"tag": "body pain", "pattern": ["body pain", "general pain", "whole body aches", "muscle soreness", "body discomfort", "widespread pain"], "response": ["body pain"]}
-  ]
+    {"tag": "body pain", "pattern": ["body pain", "general pain", "whole body aches", "muscle soreness", "body discomfort", "widespread pain"], "response": ["body pain"]},
+    {"tag": "male","pattern": ["i am a male, male,mail,i am a mail,mail like,male like,maybe a mail,not female"],"response": ["male"]},
+    {"tag": "female","pattern": ["i am female","not a male","female like","maybe a female","female"],"response": ["female"]}
+
+   ]
 }

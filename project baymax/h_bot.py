@@ -7,13 +7,12 @@ import win32con
 import spacy
 import pandas as pd
 import speech_recognition as sr
-from translate import Translator
 from utils import load_symptoms, detect_symptoms
 from database import new_id, has_id
+from googletrans import Translator
 from bson.objectid import ObjectId
-from googletrans import Translator as trans
 
-trans = trans()
+translator = Translator()
 
 all_symptoms = load_symptoms("symptoms.txt")
 nlp = spacy.load("en_core_web_sm")
@@ -21,7 +20,7 @@ r = sr.Recognizer()
 engine = pyttsx3.init()
 
 def speak_and_listen(prompt, language="en"):
-    translated_prompt = Translator(to_lang=language).translate(prompt)
+    translated_prompt = translator.translate(prompt, src="en",dest=language).text
     tts = gTTS(text=translated_prompt, lang=language, slow=False)
     filename = "temp.mp3"
     tts.save(filename)
@@ -45,7 +44,7 @@ def speak_and_listen(prompt, language="en"):
 
 def get_user_details(language):
     name = speak_and_listen("What is your name?", language)
-    doc = nlp(str(Translator(to_lang="en").translate(name)))
+    doc = nlp(str(translator.translate(name, src=language, dest="en")))
     for token in doc.ents:
         if token.label_ == "PERSON":
             name = token.text
@@ -60,22 +59,23 @@ def get_user_details(language):
                 gender = "male"
             break
 
-    age_weight = speak_and_listen("What is your age?", language)
-    print(age_weight)
     max_attempts = 3
     attempts = 0
     age = 0
 
     while (age == 0 ) and attempts < max_attempts:
-        doc = nlp(Translator(to_lang="en").translate(age_weight))
+        age = speak_and_listen("What is your age?", language)
+        doc = nlp(str(translator.translate(gender, src=language, dest="en")))
 
         for token in doc.ents:
             if token.label_ in {"DATE", "CARDINAL"} and age == 0:
                 age = token.text
 
         if age == 0:
-            age_weight = speak_and_listen("Sorry, I didn't get that. Please say again.", language)
+            age = speak_and_listen("Sorry, I didn't get that. Please say again.", language)
             attempts += 1
+        else:
+            break
 
     if age == 0 :
         print("Failed to capture age and weight accurately.")

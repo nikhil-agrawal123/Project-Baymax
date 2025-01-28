@@ -2,12 +2,18 @@ from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 import datetime
 from bson.objectid import ObjectId
+from dotenv import load_dotenv
+import os
 
-uri = "mongodb+srv://nikhilagrawal6448:paPB2cOJXIEMyKce@storage.9suwx.mongodb.net/?retryWrites=true&w=majority&appName=Storage"
+load_dotenv()
+MONGO_USER = os.getenv("MONGO_USER")
+MONGO_PASS = os.getenv("MONGO_PASS")
+
+uri = f"mongodb+srv://{MONGO_USER}:{MONGO_PASS}@storage.9suwx.mongodb.net/?retryWrites=true&w=majority&appName=Storage"
 
 client = MongoClient(uri, server_api=ServerApi('1'))
 
-def has_id(id,name,age,weight,gender,symptoms,duration,severity):
+def has_id(id,name,age,gender,symptoms,duration,severity):
     db = client.test
     patients = db.Patients
 
@@ -16,7 +22,6 @@ def has_id(id,name,age,weight,gender,symptoms,duration,severity):
             "_id": ObjectId(id),
             "name":name,
             "age":age,"gender":gender,
-            "weight": weight,
             "problem":symptoms,
             "duration": duration,
             "severity": severity,
@@ -27,7 +32,7 @@ def has_id(id,name,age,weight,gender,symptoms,duration,severity):
     except Exception as e:
         print(e)
 
-def new_id(name,age,weight,gender,symptoms,duration,severity):
+def new_id(name,age,gender,symptoms,duration,severity):
     db = client.test
     patients = db.Patients
 
@@ -35,7 +40,6 @@ def new_id(name,age,weight,gender,symptoms,duration,severity):
         patients.insert_one({
             "name": name,
             "age": age, "gender": gender,
-            "weight": weight,
             "problem": symptoms,
             "duration": duration,
             "severity": severity,
